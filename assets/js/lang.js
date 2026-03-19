@@ -33,7 +33,7 @@ function setCookie(name, value, days = 30) {
 function renderDynamicSliders(lang) {
     const swipers = document.querySelectorAll('.dynamic-swiper');
     swipers.forEach(swiperEl => {
-        const listKey = swiperEl.getAttribute('data-list');
+        const listKey = swiperEl.getAttribute('data-list-key') || swiperEl.getAttribute('data-list');
         const dataList = translations[lang] && translations[lang][listKey];
         const wrapper = swiperEl.querySelector('.swiper-wrapper');
         
