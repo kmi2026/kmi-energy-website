@@ -138,63 +138,63 @@
             "desc": "High-standard integrated packaging using high-strength anti-corrosion stainless steel cabinets. Covering medium-to-medium and medium-to-low pressure micro-circulation control to smartly achieve precise flow stabilization and metering."
         },
         {
-            "image": "assets/images/index_card_gas_regulating.png",
+            "image": "assets/images/biz3_p3_filter.png",
             "title": "High-Pressure Gas Filters",
             "desc": "A pure shield in high-pressure, high-flow environments. Filtration efficiency reaches 99.8%, with precision up to 10μ. Standardly equipped with imported quick-opening blind plates and remote differential pressure data signal warnings."
         }
     ],
     "biz3_cases": [
         {
-            "image": "assets/images/index_card_gas_regulating.png",
+            "image": "assets/images/biz3_c1_tesla.png",
             "title": "Tesla Shanghai Gigafactory",
             "desc": "Customized medium-to-medium pressure regional regulating station with highly responsive and reliable design, ensuring stable gas supply for smart manufacturing production lines."
         },
         {
-            "image": "assets/images/index_card_gas_regulating.png",
+            "image": "assets/images/biz3_c2_disney.png",
             "title": "Shanghai Disney Energy Center",
             "desc": "High-end regulating system with precise multi-path proportioning, meeting the failure-free operation safety levels demanded by world top-tier theme parks."
         },
         {
-            "image": "assets/images/index_card_gas_regulating.png",
+            "image": "assets/images/biz3_c3_comac.png",
             "title": "COMAC Shanghai Aircraft Manufacturing",
             "desc": "Providing strictly standardized energy hub management, assisting the production and R&D of national wide-body aircraft with high-precision gas transmission equipment."
         },
         {
-            "image": "assets/images/index_card_gas_regulating.png",
+            "image": "assets/images/biz3_c4_municipal.png",
             "title": "Municipal Gas Backbone Networks",
             "desc": "Deeply serving major master gate stations for Towngas and PetroChina Kunlun Gas nationwide, accommodating massive high-pressure energy loads for civilian and industrial use."
         }
     ],
     "biz4_services": [
         {
-            "image": "assets/images/index_main_hero_bg.png",
+            "image": "assets/images/biz4_s1_overhaul.png",
             "title": "Turbine Overhaul & Deep Maintenance",
             "desc": "Providing annual scheduled inspections, deep flaw detection and repair of core components, and fully structured overhaul services for various mainstream gas turbines and generator sets."
         },
         {
-            "image": "assets/images/index_main_hero_bg.png",
+            "image": "assets/images/biz4_s2_optimization.png",
             "title": "Performance Optimization & Life Extension",
             "desc": "Data-driven system diagnostics to conduct targeted technical upgrades and district heating (Cogeneration) retrofits, significantly extending equipment lifespan."
         },
         {
-            "image": "assets/images/index_main_hero_bg.png",
+            "image": "assets/images/biz4_s3_epc.png",
             "title": "EPC Turnkey Project General Contracting",
             "desc": "End-to-end full-chain services covering project Engineering, global top-tier Procurement, and on-site Construction delivery."
         }
     ],
     "biz4_globals": [
         {
-            "image": "assets/images/index_main_hero_bg.png",
+            "image": "assets/images/biz4_g1_scale.png",
             "title": "Global Coverage Scale",
             "desc": "Our engineering services presently extend to 36 countries and regions worldwide, directly serving over 2000 large-scale industrial plants."
         },
         {
-            "image": "assets/images/index_main_hero_bg.png",
+            "image": "assets/images/biz4_g2_response.png",
             "title": "Rapid Localized Response",
             "desc": "Deploying strictly assessed, combat-ready engineer teams at global core nodes to ensure fastest on-site response during sudden failures."
         },
         {
-            "image": "assets/images/index_main_hero_bg.png",
+            "image": "assets/images/biz4_g3_support.png",
             "title": "Supply Chain & Lifetime Tech Support",
             "desc": "Connecting upstream and downstream spare parts ecosystems, combined with cloud expert diagnostic systems, providing instant cross-border spare parts relief and lifetime technical support."
         }
