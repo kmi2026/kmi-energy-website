@@ -23,7 +23,7 @@
 
 ### 步骤 A：打开后台专属网址
 请在任意电脑的浏览器（推荐 Chrome 或 Edge）中输入以下地址：
-👉 **后台入口：[https://zingy-peony-812939.netlify.app/admin](https://zingy-peony-812939.netlify.app/admin)**
+👉 **后台入口：[https://kmi-energy-website.vercel.app/admin](https://kmi-energy-website.vercel.app/admin)**
 *(注：如果加载偏慢请稍等，看到纯黑色的登录界面即代表访问成功)*
 
 ### 步骤 B：一键授权安全登录

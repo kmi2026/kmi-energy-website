@@ -28,11 +28,11 @@ KMI Energy 官方企业网站是一个支持中英双语、带有现代化动态
 本项目目前挂载了代码仓库的双重部署通道，供日常运行与测试使用：
 
 ### ✅ 主通道：Netlify (推荐，CMS 必须走此通道)
-Netlify 环境承载了我们开发的 Serverless 后端代理接口，因此它是完整运行后台功能的唯一环境。
-- **部署平台**：Netlify
-- **归属账号**：KMI2026 (通过 Github 授权登录绑定的 Netlify 账户)
-- **🔗 官网生产环境外网地址**：[https://zingy-peony-812939.netlify.app/](https://zingy-peony-812939.netlify.app/)
-- **🔗 CMS 管理后台访问地址**：[https://zingy-peony-812939.netlify.app/admin/](https://zingy-peony-812939.netlify.app/admin/) 
+Vercel 环境承载了我们开发的 Serverless 后端代理接口，因此它是完整运行后台功能的唯一环境。
+- **部署平台**：Vercel
+- **归属账号**：KMI2026 (通过 Github 授权登录绑定的 Vercel 账户)
+- **🔗 官网生产环境外网地址**：[https://kmi-energy-website.vercel.app/](https://kmi-energy-website.vercel.app/)
+- **🔗 CMS 管理后台访问地址**：[https://kmi-energy-website.vercel.app/admin/](https://kmi-energy-website.vercel.app/admin/) 
   *(切记：管理员编辑修改网站内容时，务必通过此链接登录！)*
 
 ### 备用通道：Github Pages (仅供纯前端展示)
@@ -41,12 +41,12 @@ Netlify 环境承载了我们开发的 Serverless 后端代理接口，因此它
 
 ## 6. 如何重新触发构建与部署
 通常情况下，网站处于 **“全自动化免维护运作 (CI/CD)”** 状态：
-当你无论是在 Github 直接修改代码文件、开发人员用终端 `git push`、还是非技术人员在 **CMS 中点击“发布/保存”** 时，Github 会自动发送一个隐藏的通信脉冲 (Webhook) 告诉 Netlify。Netlify 服务器收到信号后会立即拉取最新代码并静默更新网站，整个过程大约在 **1 ~ 2 分钟内全自动完成**，您只需要稍后强刷浏览器（Ctrl+F5 或 Shift+F5）即可看到变化。
+当你无论是在 Github 直接修改代码文件、开发人员用终端 `git push`、还是非技术人员在 **CMS 中点击“发布/保存”** 时，Github 会自动发送一个隐藏的通信脉冲 (Webhook) 告诉 Netlify。Vercel 服务器收到信号后会立即拉取最新代码并静默更新网站，整个过程大约在 **1 ~ 2 分钟内全自动完成**，您只需要稍后强刷浏览器（Ctrl+F5 或 Shift+F5）即可看到变化。
 
 **如果在极端情况下需要强行手动重发部署，请按如下流程操作：**
-1. 访问 Netlify 官网 (`https://app.netlify.com/`)。
+1. 访问 Vercel 官网 (`https://vercel.com/`)。
 2. 使用 Github 账户联合登录 Netlify。
 3. 在 Dashboard 中点击进入名为 `zingy-peony-812939` 的站点控制台。
 4. 在页面左侧边栏或顶部导航点击进入 **Deploys** (部署详情页) 选项卡。
-5. 在页面右侧找到并点击 **"Trigger deploy"** 按钮，在其下拉菜单中选择 **"Deploy site"** 或 **"Clear cache and deploy site"**。
+5. 在页面右侧找到并点击 **"Deploy / Redeploy"** 按钮，在其下拉菜单中选择 **"Deploy site"** 或 **"Clear cache and deploy site"**。
 6. 服务器即会强制清空老缓存，拉取 Github 上的最新代码执行重新发布。
