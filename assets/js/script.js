@@ -1,3 +1,7 @@
+/**
+ * Author: YuanYuan
+ * Project: KMI Energy Corporate Website
+ */
 document.addEventListener('DOMContentLoaded', () => {
     // 1. Navbar Scroll Effect
     const navbar = document.getElementById('navbar');

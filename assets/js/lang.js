@@ -1,3 +1,7 @@
+/**
+ * Author: YuanYuan
+ * Project: KMI Energy Corporate Website
+ */
 let translations = { zh: {}, en: {} };
 
 async function loadTranslations() {

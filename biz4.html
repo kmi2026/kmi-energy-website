@@ -1,169 +1,302 @@
 <!DOCTYPE html>
+<!--
+  ~ Author: YuanYuan
+  ~ Project: KMI Energy Corporate Website
+  -->
 
 <html lang="zh-CN">
-<head>
-<meta charset="utf-8"/>
-<meta content="width=device-width, initial-scale=1.0" name="viewport"/>
-<title data-i18n="biz4_page_title">全球属地化运维 | KMI Energy</title>
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&amp;display=swap" rel="stylesheet"/>
-<link href="assets/css/styles.css" rel="stylesheet"/>
-<link href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" rel="stylesheet">
-</link></head>
-<body>
-<!-- Navbar -->
-<nav class="navbar scrolled" id="navbar">
-<div class="nav-container">
-<div class="logo"><a href="index.html">KMI <span>Energy</span></a></div>
-<ul class="nav-links">
-<li><a data-i18n="nav_home" href="index.html#home">首页</a></li>
-<li class="dropdown">
-<a data-i18n="nav_business" href="index.html#business" style="cursor:pointer; display:flex; align-items:center; gap:4px;">核心业务 <svg fill="none" height="12" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="12"><path d="M6 9l6 6 6-6"></path></svg></a>
-<ul class="dropdown-menu">
-<li><a data-i18n="nav_biz1" href="biz1.html">隔音解决方案</a></li>
-<li><a data-i18n="nav_biz2" href="biz2.html">燃气发电机组</a></li>
-<li><a data-i18n="nav_biz3" href="biz3.html">燃气调压系统</a></li>
-<li><a data-i18n="nav_biz4" href="biz4.html">全球属地化运维</a></li>
-</ul>
-</li>
-<li><a data-i18n="nav_about" href="index.html#about">关于我们</a></li>
-<li><a class="open-contact-modal" data-i18n="nav_contact" href="#">联系我们</a></li>
-<li class="lang-switcher">
-<a class="lang-toggle" href="#">
-<svg class="globe-icon" fill="none" stroke="currentColor" viewbox="0 0 24 24"><path d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg>
-<svg class="chevron-icon" fill="none" stroke="currentColor" viewbox="0 0 24 24"><path d="M19 9l-7 7-7-7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"></path></svg>
-</a>
-<ul class="lang-dropdown">
-<li class="lang-dropdown-header" data-i18n="lang_title">Language</li>
-<li><a data-lang="zh" href="#"><span class="radio-btn"></span>中文</a></li>
-<li><a data-lang="en" href="#"><span class="radio-btn"></span>ENGLISH</a></li>
-</ul>
-</li>
-</ul>
-<div class="hamburger">
-<span class="bar"></span>
-<span class="bar"></span>
-<span class="bar"></span>
-</div>
-</div>
-</nav>
-<!-- Subpage Hero Section -->
-<header class="hero subpage-hero">
-<div class="hero-overlay"></div>
-<img alt="Global O&amp;M Hero" class="hero-bg" src="assets/images/index_card_gas_turbine.png" style="filter: brightness(0.6);"/>
-<div class="hero-content fade-up visible">
-<h1 data-i18n="biz4_hero_h1">全球属地化运维</h1>
-<p data-i18n="biz4_hero_p">构建覆盖全球36个国家与地区的服务网络，提供从大修到性能优化的全生命周期能源护航。</p>
-</div>
-</header>
-<!-- Products Section -->
-<section class="product-section bg-light">
-<div class="container fade-up visible">
-<div class="section-title text-center">
-<h2 data-i18n="biz4_core_h2">核心运维服务</h2>
-<div class="title-line mx-auto"></div>
-</div>
-
-<div class="swiper dynamic-swiper" data-list-key="biz4_services">
-<div class="swiper-wrapper">
-<!-- Dynamic slides will be injected here -->
-</div>
-<div class="swiper-pagination"></div>
-<div class="swiper-button-prev"></div>
-<div class="swiper-button-next"></div>
-</div>
-
-</div>
-</section>
-<!-- Capabilities Section (Strength Layout) -->
-<section class="strength-section">
-<div class="container fade-up visible">
-<div class="section-title text-center">
-<h2 data-i18n="biz4_global_h2">全球履约能力</h2>
-<div class="title-line mx-auto"></div>
-</div>
-<!-- Using 3 columns -->
-
-<div class="swiper dynamic-swiper" data-list-key="biz4_globals">
-<div class="swiper-wrapper">
-<!-- Dynamic slides will be injected here -->
-</div>
-<div class="swiper-pagination"></div>
-<div class="swiper-button-prev"></div>
-<div class="swiper-button-next"></div>
-</div>
-
-</div>
-</section>
-<!-- Contact Modal -->
-<div class="modal" id="contact-modal">
-<div class="modal-content contact-container">
-<span class="close-modal">×</span>
-<h2 data-i18n="contact_form_title">获取报价 / 业务咨询</h2>
-<form id="kmi-contact-form">
-<div class="form-row">
-<div class="form-group">
-<label data-i18n="form_name" for="name">您的姓名</label>
-<input id="name" name="name" required="" type="text"/>
-</div>
-<div class="form-group">
-<label data-i18n="form_email" for="email">电子邮箱</label>
-<input id="email" name="email" required="" type="email"/>
-</div>
-</div>
-<div class="form-group">
-<label data-i18n="form_company" for="company">公司名称 (可选)</label>
-<input id="company" name="company" type="text"/>
-</div>
-<div class="form-group">
-<label data-i18n="form_message" for="message">需求描述</label>
-<textarea id="message" name="message" required="" rows="3"></textarea>
-</div>
-<button class="submit-btn" data-i18n="form_submit" type="submit">发送留言</button>
-<div class="form-message" id="form-message"></div>
-</form>
-</div>
-</div>
-<!-- Footer -->
-<footer class="footer">
-<div class="container">
-<div class="footer-grid">
-<div class="footer-col">
-<h3>KMI Energy</h3>
-<p data-i18n="foot_desc">全球领先的能源降噪与现场发电系统交钥匙工程供应商。</p>
-</div>
-<div class="footer-col">
-<h4 data-i18n="foot_link">快速链接</h4>
-<ul>
-<li><a data-i18n="nav_home" href="index.html#home">首页</a></li>
-<li><a data-i18n="nav_about" href="index.html#about">关于我们</a></li>
-<li><a class="open-contact-modal" data-i18n="nav_contact" href="#">联系我们</a></li>
-<li><a data-i18n="nav_business" href="index.html#business">主营业务</a></li>
-</ul>
-</div>
-<div class="footer-col">
-<h4 data-i18n="foot_contact">联系我们</h4>
-<p data-i18n="foot_email">合作邮箱: info@kmienergy.com</p>
-</div>
-</div>
-<div class="footer-bottom">
-<p data-i18n="foot_copy">© 2026 KMI Energy. 保留所有权利.</p>
-</div>
-</div>
-</footer>
-<script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
-<script src="assets/js/lang.js"></script>
-<script src="assets/js/script.js"></script>
-<script>
-        document.addEventListener('DOMContentLoaded', () => {
+ <head>
+  <meta content="YuanYuan" name="author"/>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <title data-i18n="biz4_page_title">
+   全球属地化运维 | KMI Energy
+  </title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&amp;display=swap" rel="stylesheet"/>
+  <link href="assets/css/styles.css" rel="stylesheet"/>
+  <link href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" rel="stylesheet"/>
+ </head>
+ <body>
+  <!-- Navbar -->
+  <nav class="navbar scrolled" id="navbar">
+   <div class="nav-container">
+    <div class="logo">
+     <a href="index.html">
+      KMI
+      <span>
+       Energy
+      </span>
+     </a>
+    </div>
+    <ul class="nav-links">
+     <li>
+      <a data-i18n="nav_home" href="index.html#home">
+       首页
+      </a>
+     </li>
+     <li class="dropdown">
+      <a data-i18n="nav_business" href="index.html#business" style="cursor:pointer; display:flex; align-items:center; gap:4px;">
+       核心业务
+       <svg fill="none" height="12" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="12">
+        <path d="M6 9l6 6 6-6">
+        </path>
+       </svg>
+      </a>
+      <ul class="dropdown-menu">
+       <li>
+        <a data-i18n="nav_biz1" href="biz1.html">
+         隔音解决方案
+        </a>
+       </li>
+       <li>
+        <a data-i18n="nav_biz2" href="biz2.html">
+         燃气发电机组
+        </a>
+       </li>
+       <li>
+        <a data-i18n="nav_biz3" href="biz3.html">
+         燃气调压系统
+        </a>
+       </li>
+       <li>
+        <a data-i18n="nav_biz4" href="biz4.html">
+         全球属地化运维
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li>
+      <a data-i18n="nav_about" href="index.html#about">
+       关于我们
+      </a>
+     </li>
+     <li>
+      <a class="open-contact-modal" data-i18n="nav_contact" href="#">
+       联系我们
+      </a>
+     </li>
+     <li class="lang-switcher">
+      <a class="lang-toggle" href="#">
+       <svg class="globe-icon" fill="none" stroke="currentColor" viewbox="0 0 24 24">
+        <path d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+        </path>
+       </svg>
+       <svg class="chevron-icon" fill="none" stroke="currentColor" viewbox="0 0 24 24">
+        <path d="M19 9l-7 7-7-7" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+        </path>
+       </svg>
+      </a>
+      <ul class="lang-dropdown">
+       <li class="lang-dropdown-header" data-i18n="lang_title">
+        Language
+       </li>
+       <li>
+        <a data-lang="zh" href="#">
+         <span class="radio-btn">
+         </span>
+         中文
+        </a>
+       </li>
+       <li>
+        <a data-lang="en" href="#">
+         <span class="radio-btn">
+         </span>
+         ENGLISH
+        </a>
+       </li>
+      </ul>
+     </li>
+    </ul>
+    <div class="hamburger">
+     <span class="bar">
+     </span>
+     <span class="bar">
+     </span>
+     <span class="bar">
+     </span>
+    </div>
+   </div>
+  </nav>
+  <!-- Subpage Hero Section -->
+  <header class="hero subpage-hero">
+   <div class="hero-overlay">
+   </div>
+   <img alt="Global O&amp;M Hero" class="hero-bg" src="assets/images/index_card_gas_turbine.png" style="filter: brightness(0.6);"/>
+   <div class="hero-content fade-up visible">
+    <h1 data-i18n="biz4_hero_h1">
+     全球属地化运维
+    </h1>
+    <p data-i18n="biz4_hero_p">
+     构建覆盖全球36个国家与地区的服务网络，提供从大修到性能优化的全生命周期能源护航。
+    </p>
+   </div>
+  </header>
+  <!-- Products Section -->
+  <section class="product-section bg-light">
+   <div class="container fade-up visible">
+    <div class="section-title text-center">
+     <h2 data-i18n="biz4_core_h2">
+      核心运维服务
+     </h2>
+     <div class="title-line mx-auto">
+     </div>
+    </div>
+    <div class="swiper dynamic-swiper" data-list-key="biz4_services">
+     <div class="swiper-wrapper">
+      <!-- Dynamic slides will be injected here -->
+     </div>
+     <div class="swiper-pagination">
+     </div>
+     <div class="swiper-button-prev">
+     </div>
+     <div class="swiper-button-next">
+     </div>
+    </div>
+   </div>
+  </section>
+  <!-- Capabilities Section (Strength Layout) -->
+  <section class="strength-section">
+   <div class="container fade-up visible">
+    <div class="section-title text-center">
+     <h2 data-i18n="biz4_global_h2">
+      全球履约能力
+     </h2>
+     <div class="title-line mx-auto">
+     </div>
+    </div>
+    <!-- Using 3 columns -->
+    <div class="swiper dynamic-swiper" data-list-key="biz4_globals">
+     <div class="swiper-wrapper">
+      <!-- Dynamic slides will be injected here -->
+     </div>
+     <div class="swiper-pagination">
+     </div>
+     <div class="swiper-button-prev">
+     </div>
+     <div class="swiper-button-next">
+     </div>
+    </div>
+   </div>
+  </section>
+  <!-- Contact Modal -->
+  <div class="modal" id="contact-modal">
+   <div class="modal-content contact-container">
+    <span class="close-modal">
+     ×
+    </span>
+    <h2 data-i18n="contact_form_title">
+     获取报价 / 业务咨询
+    </h2>
+    <form id="kmi-contact-form">
+     <div class="form-row">
+      <div class="form-group">
+       <label data-i18n="form_name" for="name">
+        您的姓名
+       </label>
+       <input id="name" name="name" required="" type="text"/>
+      </div>
+      <div class="form-group">
+       <label data-i18n="form_email" for="email">
+        电子邮箱
+       </label>
+       <input id="email" name="email" required="" type="email"/>
+      </div>
+     </div>
+     <div class="form-group">
+      <label data-i18n="form_company" for="company">
+       公司名称 (可选)
+      </label>
+      <input id="company" name="company" type="text"/>
+     </div>
+     <div class="form-group">
+      <label data-i18n="form_message" for="message">
+       需求描述
+      </label>
+      <textarea id="message" name="message" required="" rows="3"></textarea>
+     </div>
+     <button class="submit-btn" data-i18n="form_submit" type="submit">
+      发送留言
+     </button>
+     <div class="form-message" id="form-message">
+     </div>
+    </form>
+   </div>
+  </div>
+  <!-- Footer -->
+  <footer class="footer">
+   <div class="container">
+    <div class="footer-grid">
+     <div class="footer-col">
+      <h3>
+       KMI Energy
+      </h3>
+      <p data-i18n="foot_desc">
+       全球领先的能源降噪与现场发电系统交钥匙工程供应商。
+      </p>
+     </div>
+     <div class="footer-col">
+      <h4 data-i18n="foot_link">
+       快速链接
+      </h4>
+      <ul>
+       <li>
+        <a data-i18n="nav_home" href="index.html#home">
+         首页
+        </a>
+       </li>
+       <li>
+        <a data-i18n="nav_about" href="index.html#about">
+         关于我们
+        </a>
+       </li>
+       <li>
+        <a class="open-contact-modal" data-i18n="nav_contact" href="#">
+         联系我们
+        </a>
+       </li>
+       <li>
+        <a data-i18n="nav_business" href="index.html#business">
+         主营业务
+        </a>
+       </li>
+      </ul>
+     </div>
+     <div class="footer-col">
+      <h4 data-i18n="foot_contact">
+       联系我们
+      </h4>
+      <p data-i18n="foot_email">
+       合作邮箱: info@kmienergy.com
+      </p>
+     </div>
+    </div>
+    <div class="footer-bottom">
+     <p data-i18n="foot_copy">
+      © 2026 KMI Energy. 保留所有权利.
+     </p>
+    </div>
+   </div>
+  </footer>
+  <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js">
+  </script>
+  <script src="assets/js/lang.js">
+  </script>
+  <script src="assets/js/script.js">
+  </script>
+  <script>
+   document.addEventListener('DOMContentLoaded', () => {
             let lang = getCookie('preferred_lang') || 'zh';
             if (translations[lang] && translations[lang]['biz4_page_title']) {
                 document.title = translations[lang]['biz4_page_title'];
             }
         });
-    </script>
-<!-- Floating Contact Button -->
-<button class="floating-btn open-contact-modal" id="floating-contact-btn" title="Contact Us">
-<svg fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
-</button>
-</body>
+  </script>
+  <!-- Floating Contact Button -->
+  <button class="floating-btn open-contact-modal" id="floating-contact-btn" title="Contact Us">
+   <svg fill="none" height="24" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" viewbox="0 0 24 24" width="24">
+    <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z">
+    </path>
+   </svg>
+  </button>
+ </body>
 </html>
