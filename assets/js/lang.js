@@ -26,6 +26,71 @@ function setCookie(name, value, days = 30) {
     document.cookie = `${name}=${value};expires=${d.toUTCString()};path=/;SameSite=Lax`;
 }
 
+function renderDynamicSliders(lang) {
+    const swipers = document.querySelectorAll('.dynamic-swiper');
+    swipers.forEach(swiperEl => {
+        const listKey = swiperEl.getAttribute('data-list');
+        const dataList = translations[lang] && translations[lang][listKey];
+        const wrapper = swiperEl.querySelector('.swiper-wrapper');
+        
+        if (!wrapper) return;
+        
+        if (!dataList || !Array.isArray(dataList)) {
+            wrapper.innerHTML = '';
+            return;
+        }
+
+        let html = '';
+        dataList.forEach(item => {
+            let imgHtml = item.image 
+                ? `<img src="${item.image}" alt="${item.title}" style="width: 100%; height: 220px; object-fit: cover;">`
+                : `<div style="width:100%; height:220px; background: linear-gradient(135deg, var(--dark-blue), var(--primary-orange)); opacity:0.8;"></div>`;
+
+            // Use generic card styling compatible with all grid containers
+            html += `
+            <div class="swiper-slide" style="height: auto;">
+                <div class="card" style="height: 100%; display: flex; flex-direction: column; background: var(--white); border-radius: 8px; overflow: hidden; box-shadow: 0 4px 15px rgba(0,0,0,0.05);">
+                    ${imgHtml}
+                    <div class="card-content" style="padding: 25px; flex-grow: 1;">
+                        <h3 style="font-size: 1.25rem; color: var(--dark-blue); margin-bottom: 12px;">${item.title || ''}</h3>
+                        <p style="font-size: 0.95rem; color: var(--mid-grey); line-height: 1.6;">${item.desc || ''}</p>
+                    </div>
+                </div>
+            </div>`;
+        });
+        
+        wrapper.innerHTML = html;
+
+        // Initialize Swiper if not done yet
+        if (!swiperEl.swiperInstance) {
+            // Need setTimeout to ensure DOM is fully rendered before Swiper calculates widths
+            setTimeout(() => {
+                if (typeof Swiper !== 'undefined') {
+                    swiperEl.swiperInstance = new Swiper(swiperEl, {
+                        slidesPerView: 1,
+                        spaceBetween: 30,
+                        pagination: {
+                            el: swiperEl.querySelector('.swiper-pagination'),
+                            clickable: true,
+                        },
+                        navigation: {
+                            nextEl: swiperEl.querySelector('.swiper-button-next'),
+                            prevEl: swiperEl.querySelector('.swiper-button-prev'),
+                        },
+                        breakpoints: {
+                            640: { slidesPerView: 1 },
+                            768: { slidesPerView: 2 },
+                            1024: { slidesPerView: 3 }
+                        }
+                    });
+                }
+            }, 0);
+        } else {
+            swiperEl.swiperInstance.update();
+        }
+    });
+}
+
 function updateTexts(lang) {
     document.documentElement.lang = lang === 'zh' ? 'zh-CN' : 'en';
     const uiTexts = document.querySelectorAll('[data-i18n]');
@@ -51,6 +116,9 @@ function updateTexts(lang) {
             a.classList.remove('active');
         }
     });
+
+    // Render Dynamic Swiper Carousels AFTER static texts update
+    renderDynamicSliders(lang);
 }
 
 document.addEventListener('DOMContentLoaded', async () => {

@@ -7,6 +7,7 @@
     <title data-i18n="biz1_page_title">隔音解决方案 | KMI Energy</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 </head>
 
 <body>
@@ -86,29 +87,11 @@
                 <h2 data-i18n="biz1_prod_h2">核心产品系列</h2>
                 <div class="title-line mx-auto"></div>
             </div>
-            <div class="product-grid">
-                <div class="product-card">
-                    <!-- Placeholder color for image if no real image -->
-                    <div class="product-img" style="background: linear-gradient(135deg, var(--dark-blue), var(--primary-orange)); opacity: 0.8;"></div>
-                    <div class="product-info">
-                        <h3 data-i18n="biz1_p1_t">隔音房系列</h3>
-                        <p data-i18n="biz1_p1_d">集现代制造工业、建筑工程与声学技术、美学于一身，专为改善与控制噪声污染日益严重的环境而设计的环保设备。</p>
-                    </div>
-                </div>
-                <div class="product-card">
-                    <div class="product-img" style="background: linear-gradient(135deg, #1f4068, var(--dark-blue)); opacity: 0.8;"></div>
-                    <div class="product-info">
-                        <h3 data-i18n="biz1_p2_t">静音室系列</h3>
-                        <p data-i18n="biz1_p2_d">在嘈杂的环境中隔离出一个安静的房间，常用于产品测试，以及需要建立一个绝对安静环境的特殊场合。</p>
-                    </div>
-                </div>
-                <div class="product-card">
-                    <div class="product-img" style="background: linear-gradient(135deg, #e43f11, #48cae4); opacity: 0.8;"></div>
-                    <div class="product-info">
-                        <h3 data-i18n="biz1_p3_t">消音室系列</h3>
-                        <p data-i18n="biz1_p3_d">在一个闭合空间内建立自由声场，确保声波介质均匀地向各个方向延伸，提供极致的声学测试环境。</p>
-                    </div>
-                </div>
+            <div class="swiper dynamic-swiper" data-list="biz1_products">
+                <div class="swiper-wrapper" id="biz1_products_wrapper"></div>
+                <div class="swiper-pagination"></div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
             </div>
         </div>
     </section>
@@ -186,6 +169,7 @@
         </div>
     </footer>
 
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="assets/js/lang.js"></script>
     <script src="assets/js/script.js"></script>
     <script>

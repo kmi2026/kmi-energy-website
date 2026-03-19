@@ -66,69 +66,74 @@ collections:
             - {label: "业务1 (声音隔离) - t", name: "biz1_str2_t", widget: "string"}
             - {label: "业务1 (声音隔离) - d", name: "biz1_str2_d", widget: "text"}
             - {label: "业务1 (声音隔离) - h2", name: "biz1_prod_h2", widget: "string"}
-            - {label: "业务1 (声音隔离) - t", name: "biz1_p1_t", widget: "string"}
-            - {label: "业务1 (声音隔离) - d", name: "biz1_p1_d", widget: "text"}
-            - {label: "业务1 (声音隔离) - t", name: "biz1_p2_t", widget: "string"}
-            - {label: "业务1 (声音隔离) - d", name: "biz1_p2_d", widget: "text"}
-            - {label: "业务1 (声音隔离) - t", name: "biz1_p3_t", widget: "string"}
-            - {label: "业务1 (声音隔离) - d", name: "biz1_p3_d", widget: "text"}
             - {label: "业务1 (声音隔离) - h2", name: "biz1_global_h2", widget: "string"}
             - {label: "业务1 (声音隔离) - p", name: "biz1_global_p", widget: "text"}
             - {label: "业务2 (燃气发电) - title", name: "biz2_page_title", widget: "string"}
             - {label: "业务2 (燃气发电) - h1", name: "biz2_hero_h1", widget: "string"}
             - {label: "业务2 (燃气发电) - p", name: "biz2_hero_p", widget: "text"}
             - {label: "业务2 (燃气发电) - h2", name: "biz2_brand_h2", widget: "string"}
-            - {label: "业务2 (燃气发电) - t", name: "biz2_b1_t", widget: "string"}
-            - {label: "业务2 (燃气发电) - d", name: "biz2_b1_d", widget: "text"}
-            - {label: "业务2 (燃气发电) - t", name: "biz2_b2_t", widget: "string"}
-            - {label: "业务2 (燃气发电) - d", name: "biz2_b2_d", widget: "text"}
-            - {label: "业务2 (燃气发电) - t", name: "biz2_b3_t", widget: "string"}
-            - {label: "业务2 (燃气发电) - d", name: "biz2_b3_d", widget: "text"}
             - {label: "业务2 (燃气发电) - h2", name: "biz2_models_h2", widget: "string"}
-            - {label: "业务2 (燃气发电) - t", name: "biz2_m1_t", widget: "string"}
-            - {label: "业务2 (燃气发电) - d", name: "biz2_m1_d", widget: "text"}
-            - {label: "业务2 (燃气发电) - t", name: "biz2_m2_t", widget: "string"}
-            - {label: "业务2 (燃气发电) - d", name: "biz2_m2_d", widget: "text"}
-            - {label: "业务2 (燃气发电) - t", name: "biz2_m3_t", widget: "string"}
-            - {label: "业务2 (燃气发电) - d", name: "biz2_m3_d", widget: "text"}
             - {label: "业务2 (燃气发电) - h2", name: "biz2_service_h2", widget: "string"}
             - {label: "业务2 (燃气发电) - p", name: "biz2_service_p", widget: "text"}
             - {label: "业务3 (燃气调压) - title", name: "biz3_page_title", widget: "string"}
             - {label: "业务3 (燃气调压) - h1", name: "biz3_hero_h1", widget: "string"}
             - {label: "业务3 (燃气调压) - p", name: "biz3_hero_p", widget: "text"}
             - {label: "业务3 (燃气调压) - h2", name: "biz3_prod_h2", widget: "string"}
-            - {label: "业务3 (燃气调压) - t", name: "biz3_p1_t", widget: "string"}
-            - {label: "业务3 (燃气调压) - d", name: "biz3_p1_d", widget: "text"}
-            - {label: "业务3 (燃气调压) - t", name: "biz3_p2_t", widget: "string"}
-            - {label: "业务3 (燃气调压) - d", name: "biz3_p2_d", widget: "text"}
-            - {label: "业务3 (燃气调压) - t", name: "biz3_p3_t", widget: "string"}
-            - {label: "业务3 (燃气调压) - d", name: "biz3_p3_d", widget: "text"}
             - {label: "业务3 (燃气调压) - h2", name: "biz3_case_h2", widget: "string"}
-            - {label: "业务3 (燃气调压) - t", name: "biz3_c1_t", widget: "string"}
-            - {label: "业务3 (燃气调压) - d", name: "biz3_c1_d", widget: "text"}
-            - {label: "业务3 (燃气调压) - t", name: "biz3_c2_t", widget: "string"}
-            - {label: "业务3 (燃气调压) - d", name: "biz3_c2_d", widget: "text"}
-            - {label: "业务3 (燃气调压) - t", name: "biz3_c3_t", widget: "string"}
-            - {label: "业务3 (燃气调压) - d", name: "biz3_c3_d", widget: "text"}
-            - {label: "业务3 (燃气调压) - t", name: "biz3_c4_t", widget: "string"}
-            - {label: "业务3 (燃气调压) - d", name: "biz3_c4_d", widget: "text"}
             - {label: "业务4 (属地运维) - title", name: "biz4_page_title", widget: "string"}
             - {label: "业务4 (属地运维) - h1", name: "biz4_hero_h1", widget: "string"}
             - {label: "业务4 (属地运维) - p", name: "biz4_hero_p", widget: "text"}
             - {label: "业务4 (属地运维) - h2", name: "biz4_core_h2", widget: "string"}
-            - {label: "业务4 (属地运维) - t", name: "biz4_s1_t", widget: "string"}
-            - {label: "业务4 (属地运维) - d", name: "biz4_s1_d", widget: "text"}
-            - {label: "业务4 (属地运维) - t", name: "biz4_s2_t", widget: "string"}
-            - {label: "业务4 (属地运维) - d", name: "biz4_s2_d", widget: "text"}
-            - {label: "业务4 (属地运维) - t", name: "biz4_s3_t", widget: "string"}
-            - {label: "业务4 (属地运维) - d", name: "biz4_s3_d", widget: "text"}
             - {label: "业务4 (属地运维) - h2", name: "biz4_global_h2", widget: "string"}
-            - {label: "业务4 (属地运维) - t", name: "biz4_g1_t", widget: "string"}
-            - {label: "业务4 (属地运维) - d", name: "biz4_g1_d", widget: "text"}
-            - {label: "业务4 (属地运维) - t", name: "biz4_g2_t", widget: "string"}
-            - {label: "业务4 (属地运维) - d", name: "biz4_g2_d", widget: "text"}
-            - {label: "业务4 (属地运维) - t", name: "biz4_g3_t", widget: "string"}
-            - {label: "业务4 (属地运维) - d", name: "biz4_g3_d", widget: "text"}
+                        - label: "业务1 (声音隔离) - 产品/服务清单"
+              name: "biz1_products"
+              widget: "list"
+              fields:
+                - {label: "封图图片 (可选)", name: "image", widget: "image", required: false}
+                - {label: "标题", name: "title", widget: "string"}
+                - {label: "详情描述", name: "desc", widget: "text"}
+            - label: "业务2 (燃气发电) - 品牌清单"
+              name: "biz2_brands"
+              widget: "list"
+              fields:
+                - {label: "封图图片 (可选)", name: "image", widget: "image", required: false}
+                - {label: "标题", name: "title", widget: "string"}
+                - {label: "详情描述", name: "desc", widget: "text"}
+            - label: "业务2 (燃气发电) - 机型清单"
+              name: "biz2_models"
+              widget: "list"
+              fields:
+                - {label: "封图图片 (可选)", name: "image", widget: "image", required: false}
+                - {label: "标题", name: "title", widget: "string"}
+                - {label: "详情描述", name: "desc", widget: "text"}
+            - label: "业务3 (燃气调压) - 核心产品"
+              name: "biz3_products"
+              widget: "list"
+              fields:
+                - {label: "封图图片 (可选)", name: "image", widget: "image", required: false}
+                - {label: "标题", name: "title", widget: "string"}
+                - {label: "详情描述", name: "desc", widget: "text"}
+            - label: "业务3 (燃气调压) - 标杆案例"
+              name: "biz3_cases"
+              widget: "list"
+              fields:
+                - {label: "封图图片 (可选)", name: "image", widget: "image", required: false}
+                - {label: "标题", name: "title", widget: "string"}
+                - {label: "详情描述", name: "desc", widget: "text"}
+            - label: "业务4 (属地运维) - 核心服务"
+              name: "biz4_services"
+              widget: "list"
+              fields:
+                - {label: "封图图片 (可选)", name: "image", widget: "image", required: false}
+                - {label: "标题", name: "title", widget: "string"}
+                - {label: "详情描述", name: "desc", widget: "text"}
+            - label: "业务4 (属地运维) - 全球履约"
+              name: "biz4_globals"
+              widget: "list"
+              fields:
+                - {label: "封图图片 (可选)", name: "image", widget: "image", required: false}
+                - {label: "标题", name: "title", widget: "string"}
+                - {label: "详情描述", name: "desc", widget: "text"}
             - {label: "contact_form_title", name: "contact_form_title", widget: "string"}
             - {label: "form_name", name: "form_name", widget: "string"}
             - {label: "form_email", name: "form_email", widget: "string"}
@@ -191,69 +196,74 @@ collections:
             - {label: "业务1 (声音隔离) - t", name: "biz1_str2_t", widget: "string"}
             - {label: "业务1 (声音隔离) - d", name: "biz1_str2_d", widget: "text"}
             - {label: "业务1 (声音隔离) - h2", name: "biz1_prod_h2", widget: "string"}
-            - {label: "业务1 (声音隔离) - t", name: "biz1_p1_t", widget: "string"}
-            - {label: "业务1 (声音隔离) - d", name: "biz1_p1_d", widget: "text"}
-            - {label: "业务1 (声音隔离) - t", name: "biz1_p2_t", widget: "string"}
-            - {label: "业务1 (声音隔离) - d", name: "biz1_p2_d", widget: "text"}
-            - {label: "业务1 (声音隔离) - t", name: "biz1_p3_t", widget: "string"}
-            - {label: "业务1 (声音隔离) - d", name: "biz1_p3_d", widget: "text"}
             - {label: "业务1 (声音隔离) - h2", name: "biz1_global_h2", widget: "string"}
             - {label: "业务1 (声音隔离) - p", name: "biz1_global_p", widget: "text"}
             - {label: "业务2 (燃气发电) - title", name: "biz2_page_title", widget: "string"}
             - {label: "业务2 (燃气发电) - h1", name: "biz2_hero_h1", widget: "string"}
             - {label: "业务2 (燃气发电) - p", name: "biz2_hero_p", widget: "text"}
             - {label: "业务2 (燃气发电) - h2", name: "biz2_brand_h2", widget: "string"}
-            - {label: "业务2 (燃气发电) - t", name: "biz2_b1_t", widget: "string"}
-            - {label: "业务2 (燃气发电) - d", name: "biz2_b1_d", widget: "text"}
-            - {label: "业务2 (燃气发电) - t", name: "biz2_b2_t", widget: "string"}
-            - {label: "业务2 (燃气发电) - d", name: "biz2_b2_d", widget: "text"}
-            - {label: "业务2 (燃气发电) - t", name: "biz2_b3_t", widget: "string"}
-            - {label: "业务2 (燃气发电) - d", name: "biz2_b3_d", widget: "text"}
             - {label: "业务2 (燃气发电) - h2", name: "biz2_models_h2", widget: "string"}
-            - {label: "业务2 (燃气发电) - t", name: "biz2_m1_t", widget: "string"}
-            - {label: "业务2 (燃气发电) - d", name: "biz2_m1_d", widget: "text"}
-            - {label: "业务2 (燃气发电) - t", name: "biz2_m2_t", widget: "string"}
-            - {label: "业务2 (燃气发电) - d", name: "biz2_m2_d", widget: "text"}
-            - {label: "业务2 (燃气发电) - t", name: "biz2_m3_t", widget: "string"}
-            - {label: "业务2 (燃气发电) - d", name: "biz2_m3_d", widget: "text"}
             - {label: "业务2 (燃气发电) - h2", name: "biz2_service_h2", widget: "string"}
             - {label: "业务2 (燃气发电) - p", name: "biz2_service_p", widget: "text"}
             - {label: "业务3 (燃气调压) - title", name: "biz3_page_title", widget: "string"}
             - {label: "业务3 (燃气调压) - h1", name: "biz3_hero_h1", widget: "string"}
             - {label: "业务3 (燃气调压) - p", name: "biz3_hero_p", widget: "text"}
             - {label: "业务3 (燃气调压) - h2", name: "biz3_prod_h2", widget: "string"}
-            - {label: "业务3 (燃气调压) - t", name: "biz3_p1_t", widget: "string"}
-            - {label: "业务3 (燃气调压) - d", name: "biz3_p1_d", widget: "text"}
-            - {label: "业务3 (燃气调压) - t", name: "biz3_p2_t", widget: "string"}
-            - {label: "业务3 (燃气调压) - d", name: "biz3_p2_d", widget: "text"}
-            - {label: "业务3 (燃气调压) - t", name: "biz3_p3_t", widget: "string"}
-            - {label: "业务3 (燃气调压) - d", name: "biz3_p3_d", widget: "text"}
             - {label: "业务3 (燃气调压) - h2", name: "biz3_case_h2", widget: "string"}
-            - {label: "业务3 (燃气调压) - t", name: "biz3_c1_t", widget: "string"}
-            - {label: "业务3 (燃气调压) - d", name: "biz3_c1_d", widget: "text"}
-            - {label: "业务3 (燃气调压) - t", name: "biz3_c2_t", widget: "string"}
-            - {label: "业务3 (燃气调压) - d", name: "biz3_c2_d", widget: "text"}
-            - {label: "业务3 (燃气调压) - t", name: "biz3_c3_t", widget: "string"}
-            - {label: "业务3 (燃气调压) - d", name: "biz3_c3_d", widget: "text"}
-            - {label: "业务3 (燃气调压) - t", name: "biz3_c4_t", widget: "string"}
-            - {label: "业务3 (燃气调压) - d", name: "biz3_c4_d", widget: "text"}
             - {label: "业务4 (属地运维) - title", name: "biz4_page_title", widget: "string"}
             - {label: "业务4 (属地运维) - h1", name: "biz4_hero_h1", widget: "string"}
             - {label: "业务4 (属地运维) - p", name: "biz4_hero_p", widget: "text"}
             - {label: "业务4 (属地运维) - h2", name: "biz4_core_h2", widget: "string"}
-            - {label: "业务4 (属地运维) - t", name: "biz4_s1_t", widget: "string"}
-            - {label: "业务4 (属地运维) - d", name: "biz4_s1_d", widget: "text"}
-            - {label: "业务4 (属地运维) - t", name: "biz4_s2_t", widget: "string"}
-            - {label: "业务4 (属地运维) - d", name: "biz4_s2_d", widget: "text"}
-            - {label: "业务4 (属地运维) - t", name: "biz4_s3_t", widget: "string"}
-            - {label: "业务4 (属地运维) - d", name: "biz4_s3_d", widget: "text"}
             - {label: "业务4 (属地运维) - h2", name: "biz4_global_h2", widget: "string"}
-            - {label: "业务4 (属地运维) - t", name: "biz4_g1_t", widget: "string"}
-            - {label: "业务4 (属地运维) - d", name: "biz4_g1_d", widget: "text"}
-            - {label: "业务4 (属地运维) - t", name: "biz4_g2_t", widget: "string"}
-            - {label: "业务4 (属地运维) - d", name: "biz4_g2_d", widget: "text"}
-            - {label: "业务4 (属地运维) - t", name: "biz4_g3_t", widget: "string"}
-            - {label: "业务4 (属地运维) - d", name: "biz4_g3_d", widget: "text"}
+                        - label: "业务1 (声音隔离) - 产品/服务清单"
+              name: "biz1_products"
+              widget: "list"
+              fields:
+                - {label: "封图图片 (可选)", name: "image", widget: "image", required: false}
+                - {label: "标题", name: "title", widget: "string"}
+                - {label: "详情描述", name: "desc", widget: "text"}
+            - label: "业务2 (燃气发电) - 品牌清单"
+              name: "biz2_brands"
+              widget: "list"
+              fields:
+                - {label: "封图图片 (可选)", name: "image", widget: "image", required: false}
+                - {label: "标题", name: "title", widget: "string"}
+                - {label: "详情描述", name: "desc", widget: "text"}
+            - label: "业务2 (燃气发电) - 机型清单"
+              name: "biz2_models"
+              widget: "list"
+              fields:
+                - {label: "封图图片 (可选)", name: "image", widget: "image", required: false}
+                - {label: "标题", name: "title", widget: "string"}
+                - {label: "详情描述", name: "desc", widget: "text"}
+            - label: "业务3 (燃气调压) - 核心产品"
+              name: "biz3_products"
+              widget: "list"
+              fields:
+                - {label: "封图图片 (可选)", name: "image", widget: "image", required: false}
+                - {label: "标题", name: "title", widget: "string"}
+                - {label: "详情描述", name: "desc", widget: "text"}
+            - label: "业务3 (燃气调压) - 标杆案例"
+              name: "biz3_cases"
+              widget: "list"
+              fields:
+                - {label: "封图图片 (可选)", name: "image", widget: "image", required: false}
+                - {label: "标题", name: "title", widget: "string"}
+                - {label: "详情描述", name: "desc", widget: "text"}
+            - label: "业务4 (属地运维) - 核心服务"
+              name: "biz4_services"
+              widget: "list"
+              fields:
+                - {label: "封图图片 (可选)", name: "image", widget: "image", required: false}
+                - {label: "标题", name: "title", widget: "string"}
+                - {label: "详情描述", name: "desc", widget: "text"}
+            - label: "业务4 (属地运维) - 全球履约"
+              name: "biz4_globals"
+              widget: "list"
+              fields:
+                - {label: "封图图片 (可选)", name: "image", widget: "image", required: false}
+                - {label: "标题", name: "title", widget: "string"}
+                - {label: "详情描述", name: "desc", widget: "text"}
             - {label: "contact_form_title", name: "contact_form_title", widget: "string"}
             - {label: "form_name", name: "form_name", widget: "string"}
             - {label: "form_email", name: "form_email", widget: "string"}

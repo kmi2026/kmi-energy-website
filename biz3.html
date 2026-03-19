@@ -7,6 +7,7 @@
     <title data-i18n="biz3_page_title">燃气调压系统 | KMI Energy</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/styles.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css" />
 </head>
 
 <body>
@@ -65,34 +66,11 @@
                 <h2 data-i18n="biz3_prod_h2">核心产品与设备</h2>
                 <div class="title-line mx-auto"></div>
             </div>
-            <div class="product-grid">
-                <div class="product-card">
-                    <div class="product-img" style="background: linear-gradient(135deg, var(--dark-blue), #23528b); align-items:center; justify-content:center; display:flex;">
-                        <span style="color:var(--white); font-size:1.5rem; font-weight:800; opacity:0.6;">High-Medium Station</span>
-                    </div>
-                    <div class="product-info">
-                        <h3 data-i18n="biz3_p1_t">高中压输配站及城市门站</h3>
-                        <p data-i18n="biz3_p1_d">量身定制的大型枢纽级撬块，支持串联监控调压、一用一备结构，配备漏气报警与电伴热系统。全面保障城市及工业主脉的稳定与安全。</p>
-                    </div>
-                </div>
-                <div class="product-card">
-                    <div class="product-img" style="background: linear-gradient(135deg, #1b3a58, #3b74a3); align-items:center; justify-content:center; display:flex;">
-                        <span style="color:var(--white); font-size:1.5rem; font-weight:800; opacity:0.6;">Regional Skids</span>
-                    </div>
-                    <div class="product-info">
-                        <h3 data-i18n="biz3_p2_t">区域调压及计量站</h3>
-                        <p data-i18n="biz3_p2_d">高水准一体化集成，采用高强防腐不锈钢箱体。覆盖中中压及中低压微循环控制，智能实现精准稳流与计量结算。</p>
-                    </div>
-                </div>
-                <div class="product-card">
-                    <div class="product-img" style="background: linear-gradient(135deg, var(--primary-orange), #a72300); align-items:center; justify-content:center; display:flex;">
-                        <span style="color:var(--white); font-size:1.5rem; font-weight:800; opacity:0.6;">Gas Filter</span>
-                    </div>
-                    <div class="product-info">
-                        <h3 data-i18n="biz3_p3_t">高压气体过滤器</h3>
-                        <p data-i18n="biz3_p3_d">高压大流量环境下的纯净坚盾。过滤效率达 99.8%，最高精度抵至 10μ。标配进口快开盲板与远传差压数据信号预警。</p>
-                    </div>
-                </div>
+            <div class="swiper dynamic-swiper" data-list="biz3_products">
+                <div class="swiper-wrapper" id="biz3_products_wrapper"></div>
+                <div class="swiper-pagination"></div>
+                <div class="swiper-button-next"></div>
+                <div class="swiper-button-prev"></div>
             </div>
         </div>
     </section>
@@ -185,6 +163,7 @@
         </div>
     </footer>
 
+    <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="assets/js/lang.js"></script>
     <script src="assets/js/script.js"></script>
     <script>
