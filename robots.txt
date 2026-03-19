@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://zingy-peony-812939.netlify.app/sitemap.xml
