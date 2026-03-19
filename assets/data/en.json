@@ -77,126 +77,126 @@
     "form_submit": "Send Message",
     "biz1_products": [
         {
-            "image": "",
+            "image": "assets/images/biz1_product_soundproof_room.png",
             "title": "Soundproof Room Series",
-            "desc": "An environmentally friendly equipment integrating modern manufacturing industry, construction engineering, acoustic technology, and aesthetics."
+            "desc": "Integrating modern manufacturing, construction engineering, acoustic technology, and aesthetics. An environmentally friendly equipment designed to improve and control severe noise pollution."
         },
         {
-            "image": "",
+            "image": "assets/images/biz1_product_mute_room.png",
             "title": "Mute Room Series",
-            "desc": "Isolating a quiet room in a noisy environment, commonly used for product testing and special occasions."
+            "desc": "Isolating a quiet room in a noisy environment, commonly used for product testing and special occasions requiring an absolutely silent environment."
         },
         {
-            "image": "",
+            "image": "assets/images/biz1_product_anechoic_chamber.png",
             "title": "Anechoic Chamber Series",
-            "desc": "Building a free sound field in a closed space, providing the ultimate acoustic test environment."
+            "desc": "Building a free sound field in a closed space, ensuring sound waves extend evenly in all directions to provide the ultimate acoustic test environment."
         }
     ],
     "biz2_brands": [
         {
-            "image": "",
+            "image": "assets/images/biz2_brand_ge.png",
             "title": "GE Aerospace & Vernova",
-            "desc": "Supporting heavy-duty and aeroderivative units including 6B, 6F, 7E, 7HA, 9E, 9F, 9HA series."
+            "desc": "Supporting heavy-duty and aeroderivative gas turbine generator sets including 6B, 6F, 7E, 7HA, 9E, 9F, and 9HA series. Providing cutting-edge flexible power solutions."
         },
         {
-            "image": "",
+            "image": "assets/images/biz2_brand_siemens.png",
             "title": "Siemens & Alstom",
-            "desc": "Comprehensive coverage of GT11N2, GT13E2, GT24, GT26 series, ensuring high efficiency and outstanding reliability."
+            "desc": "Comprehensive coverage of classic and advanced models such as GT11N2, GT13E2, GT24, and GT26. Ensuring high operational efficiency and excellent reliability."
         },
         {
-            "image": "",
+            "image": "assets/images/biz2_brand_ansaldo.png",
             "title": "Ansaldo Energia",
-            "desc": "Covering AE64.3A, AE94.2, AE94.3A, GT36 series, deeply serving mature European heavy-duty gas turbine technologies."
+            "desc": "Covering series like AE64.3A, AE94.2, AE94.3A, and GT36, offering deep services for mature European heavy-duty gas turbine technologies."
         }
     ],
     "biz2_models": [
         {
             "image": "",
             "title": "GE 9HA/7HA Series",
-            "desc": "The efficiency king of the gas turbine market, pushing performance boundaries, suitable for massive computing centers."
+            "desc": "The efficiency king of the gas turbine market, breaking performance boundaries. Highly suitable for ultra-large computing centers and high-load grid support."
         },
         {
             "image": "",
             "title": "Alstom GT26",
-            "desc": "Excellent operational flexibility and part-load efficiency, fast start-stop, highly adaptable to variable grid demands."
+            "desc": "Units with excellent operational flexibility and partial load efficiency. Fast startup and shutdown, highly adaptable to varied power grid demands."
         },
         {
             "image": "",
             "title": "Ansaldo AE94.3A",
-            "desc": "The perfect combination of rock-solid stability and high cost-effectiveness."
+            "desc": "The perfect combination of rock-solid stability and high cost-effectiveness. The premier choice for long-term stable operation in comprehensive industrial complexes."
         }
     ],
     "biz3_products": [
         {
             "image": "",
             "title": "High-Medium Pressure Transmission & City Gate Stations",
-            "desc": "Tailor-made large-scale hub skids supporting series-monitoring regulation, 1-duty 1-standby structure, equipped with gas leak alarms and electric heat tracing."
+            "desc": "Tailor-made large hub skids supporting series monitoring and regulation, 1-duty 1-standby structure, equipped with gas leak alarms and electric tracing heating. Fully ensuring the stability and safety of urban and industrial arteries."
         },
         {
             "image": "",
             "title": "Regional Regulating & Metering Stations",
-            "desc": "High-standard integrated systems packaged in anti-corrosion stainless steel enclosures. Covering precise flow stabilization and metering settlement."
+            "desc": "High-standard integrated packaging using high-strength anti-corrosion stainless steel cabinets. Covering medium-to-medium and medium-to-low pressure micro-circulation control to smartly achieve precise flow stabilization and metering."
         },
         {
             "image": "",
             "title": "High-Pressure Gas Filters",
-            "desc": "The pure shield in high-pressure, large-flow environments. Filtration efficiency up to 99.8%, precision down to 10μ. Equipped with imported quick-opening blind plates."
+            "desc": "A pure shield in high-pressure, high-flow environments. Filtration efficiency reaches 99.8%, with precision up to 10μ. Standardly equipped with imported quick-opening blind plates and remote differential pressure data signal warnings."
         }
     ],
     "biz3_cases": [
         {
             "image": "",
             "title": "Tesla Shanghai Gigafactory",
-            "desc": "Customized medium-pressure regional regulating station with rapid response, ensuring a stable gas supply for smart manufacturing lines."
+            "desc": "Customized medium-to-medium pressure regional regulating station with highly responsive and reliable design, ensuring stable gas supply for smart manufacturing production lines."
         },
         {
             "image": "",
             "title": "Shanghai Disney Energy Center",
-            "desc": "High-end pressure regulation system with multi-line delicate distribution, meeting the fault-free operation requirements of top global theme parks."
+            "desc": "High-end regulating system with precise multi-path proportioning, meeting the failure-free operation safety levels demanded by world top-tier theme parks."
         },
         {
             "image": "",
             "title": "COMAC Shanghai Aircraft Manufacturing",
-            "desc": "Providing strictly standard energy hub control, assisting the production and R&D of national aviation aircraft with high-precision gas equipment."
+            "desc": "Providing strictly standardized energy hub management, assisting the production and R&D of national wide-body aircraft with high-precision gas transmission equipment."
         },
         {
             "image": "",
             "title": "Municipal Gas Backbone Networks",
-            "desc": "Deeply serving Towngas and PetroChina Kunlun Gas city gate stations nationwide, bearing massive livelihood and industrial energy loads."
+            "desc": "Deeply serving major master gate stations for Towngas and PetroChina Kunlun Gas nationwide, accommodating massive high-pressure energy loads for civilian and industrial use."
         }
     ],
     "biz4_services": [
         {
             "image": "",
-            "title": "Turbine & Generator Overhaul",
-            "desc": "Providing annual inspection, deep flaw detection, component repair, and comprehensive overhaul for mainstream gas and steam turbines."
+            "title": "Turbine Overhaul & Deep Maintenance",
+            "desc": "Providing annual scheduled inspections, deep flaw detection and repair of core components, and fully structured overhaul services for various mainstream gas turbines and generator sets."
         },
         {
             "image": "",
             "title": "Performance Optimization & Life Extension",
-            "desc": "Data-driven diagnostics to implement targeted technical upgrades and district heating (Cogeneration) retrofits, significantly extending equipment lifespan."
+            "desc": "Data-driven system diagnostics to conduct targeted technical upgrades and district heating (Cogeneration) retrofits, significantly extending equipment lifespan."
         },
         {
             "image": "",
-            "title": "EPC & Turnkey Delivery",
-            "desc": "End-to-end solutions covering conceptual Engineering, precision global Sourcing (Procurement), and on-site Construction delivery."
+            "title": "EPC Turnkey Project General Contracting",
+            "desc": "End-to-end full-chain services covering project Engineering, global top-tier Procurement, and on-site Construction delivery."
         }
     ],
     "biz4_globals": [
         {
             "image": "",
-            "title": "Global Reach",
-            "desc": "Our engineering services have expanded to 36 countries and regions globally, directly serving over 2,000 large industrial plants."
+            "title": "Global Coverage Scale",
+            "desc": "Our engineering services presently extend to 36 countries and regions worldwide, directly serving over 2000 large-scale industrial plants."
         },
         {
             "image": "",
-            "title": "Ultra-fast Localized Response",
-            "desc": "Stationing highly trained practical engineering teams at core global nodes to ensure immediate first-site response during emergencies。"
+            "title": "Rapid Localized Response",
+            "desc": "Deploying strictly assessed, combat-ready engineer teams at global core nodes to ensure fastest on-site response during sudden failures."
         },
         {
             "image": "",
-            "title": "Supply Chain & Lifetime Support",
-            "desc": "Connecting upstream and downstream spare parts ecosystems, combined with cloud expert diagnostics, to provide cross-border immediate parts support and lifetime technical assistance."
+            "title": "Supply Chain & Lifetime Tech Support",
+            "desc": "Connecting upstream and downstream spare parts ecosystems, combined with cloud expert diagnostic systems, providing instant cross-border spare parts relief and lifetime technical support."
         }
     ]
 }
