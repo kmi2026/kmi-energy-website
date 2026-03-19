@@ -2,7 +2,7 @@ backend:
   name: github
   repo: kmi2026/kmi-energy-website
   branch: main
-  base_url: https://zingy-peony-812939.netlify.app/.netlify/functions
+  base_url: /api
 media_folder: assets/images
 public_folder: assets/images
 collections:
