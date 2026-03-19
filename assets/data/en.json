@@ -77,63 +77,63 @@
     "form_submit": "Send Message",
     "biz1_products": [
         {
-            "image": "assets/images/biz1_product_soundproof_room.png",
+            "image": "assets/images/biz1_1_soundproof.png",
             "title": "Soundproof Room Series",
             "desc": "Integrating modern manufacturing, construction engineering, acoustic technology, and aesthetics. An environmentally friendly equipment designed to improve and control severe noise pollution."
         },
         {
-            "image": "assets/images/biz1_product_mute_room.png",
+            "image": "assets/images/biz1_2_mute.png",
             "title": "Mute Room Series",
             "desc": "Isolating a quiet room in a noisy environment, commonly used for product testing and special occasions requiring an absolutely silent environment."
         },
         {
-            "image": "assets/images/biz1_product_anechoic_chamber.png",
+            "image": "assets/images/biz1_3_anechoic.png",
             "title": "Anechoic Chamber Series",
             "desc": "Building a free sound field in a closed space, ensuring sound waves extend evenly in all directions to provide the ultimate acoustic test environment."
         }
     ],
     "biz2_brands": [
         {
-            "image": "assets/images/biz2_brand_ge.png",
+            "image": "assets/images/biz2_b1_ge.png",
             "title": "GE Aerospace & Vernova",
             "desc": "Supporting heavy-duty and aeroderivative gas turbine generator sets including 6B, 6F, 7E, 7HA, 9E, 9F, and 9HA series. Providing cutting-edge flexible power solutions."
         },
         {
-            "image": "assets/images/biz2_brand_siemens.png",
+            "image": "assets/images/biz2_b2_siemens.png",
             "title": "Siemens & Alstom",
             "desc": "Comprehensive coverage of classic and advanced models such as GT11N2, GT13E2, GT24, and GT26. Ensuring high operational efficiency and excellent reliability."
         },
         {
-            "image": "assets/images/biz2_brand_ansaldo.png",
+            "image": "assets/images/biz2_b3_ansaldo.png",
             "title": "Ansaldo Energia",
             "desc": "Covering series like AE64.3A, AE94.2, AE94.3A, and GT36, offering deep services for mature European heavy-duty gas turbine technologies."
         }
     ],
     "biz2_models": [
         {
-            "image": "",
+            "image": "assets/images/biz2_m1_ha.png",
             "title": "GE 9HA/7HA Series",
             "desc": "The efficiency king of the gas turbine market, breaking performance boundaries. Highly suitable for ultra-large computing centers and high-load grid support."
         },
         {
-            "image": "",
+            "image": "assets/images/biz2_m2_gt.png",
             "title": "Alstom GT26",
             "desc": "Units with excellent operational flexibility and partial load efficiency. Fast startup and shutdown, highly adaptable to varied power grid demands."
         },
         {
-            "image": "",
+            "image": "assets/images/biz2_m3_ae.png",
             "title": "Ansaldo AE94.3A",
             "desc": "The perfect combination of rock-solid stability and high cost-effectiveness. The premier choice for long-term stable operation in comprehensive industrial complexes."
         }
     ],
     "biz3_products": [
         {
-            "image": "",
+            "image": "assets/images/biz3_p1_transmission.png",
             "title": "High-Medium Pressure Transmission & City Gate Stations",
             "desc": "Tailor-made large hub skids supporting series monitoring and regulation, 1-duty 1-standby structure, equipped with gas leak alarms and electric tracing heating. Fully ensuring the stability and safety of urban and industrial arteries."
         },
         {
-            "image": "",
+            "image": "assets/images/biz3_p2_regional.png",
             "title": "Regional Regulating & Metering Stations",
             "desc": "High-standard integrated packaging using high-strength anti-corrosion stainless steel cabinets. Covering medium-to-medium and medium-to-low pressure micro-circulation control to smartly achieve precise flow stabilization and metering."
         },

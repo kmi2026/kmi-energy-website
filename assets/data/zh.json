@@ -76,63 +76,63 @@
     "form_submit": "发送留言",
     "biz1_products": [
         {
-            "image": "assets/images/biz1_product_soundproof_room.png",
+            "image": "assets/images/biz1_1_soundproof.png",
             "title": "隔音房系列",
             "desc": "集现代制造工业、建筑工程与声学技术、美学于一身，专为改善与控制噪声污染日益严重的环境而设计的环保设备。"
         },
         {
-            "image": "assets/images/biz1_product_mute_room.png",
+            "image": "assets/images/biz1_2_mute.png",
             "title": "静音室系列",
             "desc": "在嘈杂的环境中隔离出一个安静的房间，常用于产品测试，以及需要建立一个绝对安静环境的特殊场合。"
         },
         {
-            "image": "assets/images/biz1_product_anechoic_chamber.png",
+            "image": "assets/images/biz1_3_anechoic.png",
             "title": "消音室系列",
             "desc": "在一个闭合空间内建立自由声场，确保声波介质均匀地向各个方向延伸，提供极致的声学测试环境。"
         }
     ],
     "biz2_brands": [
         {
-            "image": "assets/images/biz2_brand_ge.png",
+            "image": "assets/images/biz2_b1_ge.png",
             "title": "GE Aerospace & Vernova",
             "desc": "支持包括 6B, 6F, 7E, 7HA, 9E, 9F, 9HA 系列等重型及航改型燃气轮发电机组。提供最尖端的灵活电力解决核心。"
         },
         {
-            "image": "assets/images/biz2_brand_siemens.png",
+            "image": "assets/images/biz2_b2_siemens.png",
             "title": "Siemens & Alstom",
             "desc": "全面覆盖 GT11N2, GT13E2, GT24, GT26 等经典与先进机型组件，高效率运行与出色的可靠性保障。"
         },
         {
-            "image": "assets/images/biz2_brand_ansaldo.png",
+            "image": "assets/images/biz2_b3_ansaldo.png",
             "title": "Ansaldo Energia",
             "desc": "涵盖 AE64.3A, AE94.2, AE94.3A, GT36 等系列，深度服务欧洲成熟重型燃机技术。"
         }
     ],
     "biz2_models": [
         {
-            "image": "",
+            "image": "assets/images/biz2_m1_ha.png",
             "title": "GE 9HA/7HA系列",
             "desc": "燃机市场的能效王者系统，突破性能边界，适合超大型算力中心及高负荷电网支持。"
         },
         {
-            "image": "",
+            "image": "assets/images/biz2_m2_gt.png",
             "title": "Alstom GT26",
             "desc": "具备卓越操作灵活性与部分负荷效率的机组，快速启停，高度适应多变电网需求。"
         },
         {
-            "image": "",
+            "image": "assets/images/biz2_m3_ae.png",
             "title": "Ansaldo AE94.3A",
             "desc": "坚如磐石的稳定性与高性价比的完美结合，是工业综合体长期稳定运行的首选。"
         }
     ],
     "biz3_products": [
         {
-            "image": "",
+            "image": "assets/images/biz3_p1_transmission.png",
             "title": "高中压输配站及城市门站",
             "desc": "量身定制的大型枢纽级撬块，支持串联监控调压、一用一备结构，配备漏气报警与电伴热系统。全面保障城市及工业主脉的稳定与安全。"
         },
         {
-            "image": "",
+            "image": "assets/images/biz3_p2_regional.png",
             "title": "区域调压及计量站",
             "desc": "高水准一体化集成，采用高强防腐不锈钢箱体。覆盖中中压及中低压微循环控制，智能实现精准稳流与计量结算。"
         },
