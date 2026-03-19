@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title data-i18n="biz2_page_title">燃气发电机组 | KMI Energy</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <!-- Navbar -->
+    <nav class="navbar scrolled" id="navbar">
+        <div class="nav-container">
+            <div class="logo"><a href="index.html">KMI <span>Energy</span></a></div>
+            <ul class="nav-links">
+                <li><a href="index.html#home" data-i18n="nav_home">首页</a></li>
+                <li class="dropdown">
+                    <a href="index.html#business" data-i18n="nav_business" style="cursor:pointer; display:flex; align-items:center; gap:4px;">核心业务 <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M6 9l6 6 6-6"/></svg></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="biz1.html" data-i18n="nav_biz1">隔音解决方案</a></li>
+                        <li><a href="biz2.html" data-i18n="nav_biz2">燃气发电机组</a></li>
+                        <li><a href="biz3.html" data-i18n="nav_biz3">燃气调压系统</a></li>
+                        <li><a href="biz4.html" data-i18n="nav_biz4">全球属地化运维</a></li>
+                    </ul>
+                </li>
+                <li><a href="index.html#about" data-i18n="nav_about">关于我们</a></li>
+                <li><a href="#" class="open-contact-modal" data-i18n="nav_contact">联系我们</a></li>
+
+                <li class="lang-switcher">
+                    <a href="#" class="lang-toggle">
+                        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" class="globe-icon"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3.055 11H5a2 2 0 012 2v1a2 2 0 002 2 2 2 0 012 2v2.945M8 3.935V5.5A2.5 2.5 0 0010.5 8h.5a2 2 0 012 2 2 2 0 104 0 2 2 0 012-2h1.064M15 20.488V18a2 2 0 012-2h3.064M21 12a9 9 0 11-18 0 9 9 0 0118 0z"></path></svg>
+                        <svg fill="none" stroke="currentColor" viewBox="0 0 24 24" class="chevron-icon"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path></svg>
+                    </a>
+                    <ul class="lang-dropdown">
+                        <li class="lang-dropdown-header" data-i18n="lang_title">Language</li>
+                        <li><a href="#" data-lang="zh"><span class="radio-btn"></span>中文</a></li>
+                        <li><a href="#" data-lang="en"><span class="radio-btn"></span>ENGLISH</a></li>
+                    </ul>
+                </li>
+            </ul>
+            <div class="hamburger">
+                <span class="bar"></span>
+                <span class="bar"></span>
+                <span class="bar"></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Subpage Hero Section -->
+    <header class="hero subpage-hero">
+        <div class="hero-overlay"></div>
+        <img src="assets/images/generator_set_1773864886888.png"
+            alt="Generator Hero" class="hero-bg" style="filter: brightness(0.7);">
+        <div class="hero-content fade-up visible">
+            <h1 data-i18n="biz2_hero_h1">燃气发电机组</h1>
+            <p data-i18n="biz2_hero_p">在数周内快速部署数兆瓦电力，专为支持AI算力及大型工业项目设计的现场级能源核心。全周期服务，全球品牌支持。</p>
+        </div>
+    </header>
+
+    <!-- Brands Section -->
+    <section class="strength-section">
+        <div class="container fade-up visible">
+            <div class="section-title text-center">
+                <h2 data-i18n="biz2_brand_h2">合作与支持品牌</h2>
+                <div class="title-line mx-auto"></div>
+            </div>
+            <div class="strength-grid">
+                <div class="strength-card">
+                    <h3 data-i18n="biz2_b1_t">GE Aerospace & Vernova</h3>
+                    <p data-i18n="biz2_b1_d">支持包括 6B, 6F, 7E, 7HA, 9E, 9F, 9HA 系列等重型及航改型燃气轮发电机组。提供最尖端的灵活电力解决核心。</p>
+                </div>
+                <div class="strength-card">
+                    <h3 data-i18n="biz2_b2_t">Siemens & Alstom</h3>
+                    <p data-i18n="biz2_b2_d">全面覆盖 GT11N2, GT13E2, GT24, GT26 等经典与先进机型组件，高效率运行与出色的可靠性保障。</p>
+                </div>
+                <div class="strength-card">
+                    <h3 data-i18n="biz2_b3_t">Ansaldo Energia</h3>
+                    <p data-i18n="biz2_b3_d">涵盖 AE64.3A, AE94.2, AE94.3A, GT36 等系列，深度服务欧洲成熟重型燃机技术。</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Product Models Section -->
+    <section class="product-section bg-light">
+        <div class="container fade-up visible">
+            <div class="section-title text-center">
+                <h2 data-i18n="biz2_models_h2">特色机型展示</h2>
+                <div class="title-line mx-auto"></div>
+            </div>
+            <div class="product-grid">
+                <div class="product-card">
+                    <div class="product-img" style="background: linear-gradient(135deg, var(--dark-blue), #23528b); align-items:center; justify-content:center; display:flex;">
+                        <span style="color:var(--white); font-size:2rem; font-weight:800; opacity:0.6;">GE 9HA / 7HA</span>
+                    </div>
+                    <div class="product-info">
+                        <h3 data-i18n="biz2_m1_t">GE 9HA/7HA系列</h3>
+                        <p data-i18n="biz2_m1_d">燃机市场的能效王者系统，突破性能边界，适合超大型算力中心及高负荷电网支持。</p>
+                    </div>
+                </div>
+                <div class="product-card">
+                    <div class="product-img" style="background: linear-gradient(135deg, #1b3a58, #3b74a3); align-items:center; justify-content:center; display:flex;">
+                        <span style="color:var(--white); font-size:2rem; font-weight:800; opacity:0.6;">Alstom GT26</span>
+                    </div>
+                    <div class="product-info">
+                        <h3 data-i18n="biz2_m2_t">Alstom GT26</h3>
+                        <p data-i18n="biz2_m2_d">具备卓越操作灵活性与部分负荷效率的机组，快速启停，高度适应多变电网需求。</p>
+                    </div>
+                </div>
+                <div class="product-card">
+                    <div class="product-img" style="background: linear-gradient(135deg, var(--primary-orange), #a72300); align-items:center; justify-content:center; display:flex;">
+                        <span style="color:var(--white); font-size:2rem; font-weight:800; opacity:0.6;">AE94.3A</span>
+                    </div>
+                    <div class="product-info">
+                        <h3 data-i18n="biz2_m3_t">Ansaldo AE94.3A</h3>
+                        <p data-i18n="biz2_m3_d">坚如磐石的稳定性与高性价比的完美结合，是工业综合体长期稳定运行的首选。</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Global Service Section leveraging Bowzon context -->
+    <section class="global-section">
+        <div class="container fade-up visible">
+            <div class="section-title text-center">
+                <h2 data-i18n="biz2_service_h2">高附加值综合能力</h2>
+                <div class="title-line mx-auto"></div>
+            </div>
+            <div class="global-content">
+                <p data-i18n="biz2_service_p">凭借博众(Bowzon)在全球工业动力设备领域长达20年的深厚积累，我们不仅提供全新及二手燃气发电机组与备品备件供应，还提供从专业评估、机组回收、深度翻新装配、到现场调试的一站式交钥匙工程。全方位构建设备全生命周期的效能保障与资产增值。</p>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Contact Modal -->
+    <div id="contact-modal" class="modal">
+        <div class="modal-content contact-container">
+            <span class="close-modal">&times;</span>
+            <h2 data-i18n="contact_form_title">获取报价 / 业务咨询</h2>
+            <form id="kmi-contact-form">
+                <div class="form-row">
+                    <div class="form-group">
+                        <label for="name" data-i18n="form_name">您的姓名</label>
+                        <input type="text" id="name" name="name" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="email" data-i18n="form_email">电子邮箱</label>
+                        <input type="email" id="email" name="email" required>
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label for="company" data-i18n="form_company">公司名称 (可选)</label>
+                    <input type="text" id="company" name="company">
+                </div>
+                <div class="form-group">
+                    <label for="message" data-i18n="form_message">需求描述</label>
+                    <textarea id="message" name="message" rows="3" required></textarea>
+                </div>
+                <button type="submit" class="submit-btn" data-i18n="form_submit">发送留言</button>
+                <div id="form-message" class="form-message"></div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-grid">
+                <div class="footer-col">
+                    <h3>KMI Energy</h3>
+                    <p data-i18n="foot_desc">全球领先的能源降噪与现场发电系统交钥匙工程供应商。</p>
+                </div>
+                <div class="footer-col">
+                    <h4 data-i18n="foot_link">快速链接</h4>
+                    <ul>
+                        <li><a href="index.html#home" data-i18n="nav_home">首页</a></li>
+                        <li><a href="index.html#about" data-i18n="nav_about">关于我们</a></li>
+                <li><a href="#" class="open-contact-modal" data-i18n="nav_contact">联系我们</a></li>
+                        <li><a href="index.html#business" data-i18n="nav_business">主营业务</a></li>
+
+                    </ul>
+                </div>
+                <div class="footer-col">
+                    <h4 data-i18n="foot_contact">联系我们</h4>
+                    <p data-i18n="foot_email">合作邮箱: info@kmienergy.com</p>
+                    <p data-i18n="foot_address">集团总部: 工业与能源合作区</p>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p data-i18n="foot_copy">&copy; 2026 KMI Energy. 保留所有权利.</p>
+            </div>
+        </div>
+    </footer>
+
+    <script src="lang.js"></script>
+    <script src="script.js"></script>
+    <script>
+        document.addEventListener('DOMContentLoaded', () => {
+            let lang = getCookie('preferred_lang') || 'zh';
+            if (translations[lang] && translations[lang]['biz2_page_title']) {
+                document.title = translations[lang]['biz2_page_title'];
+            }
+        });
+    </script>
+    <!-- Floating Contact Button -->
+    <button id="floating-contact-btn" class="floating-btn open-contact-modal" title="Contact Us">
+        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"></path></svg>
+    </button>
+</body>
+
+</html>
