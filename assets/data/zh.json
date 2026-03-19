@@ -137,63 +137,63 @@
             "desc": "高水准一体化集成，采用高强防腐不锈钢箱体。覆盖中中压及中低压微循环控制，智能实现精准稳流与计量结算。"
         },
         {
-            "image": "",
+            "image": "assets/images/index_card_gas_regulating.png",
             "title": "高压气体过滤器",
             "desc": "高压大流量环境下的纯净坚盾。过滤效率达 99.8%，最高精度抵至 10μ。标配进口快开盲板与远传差压数据信号预警。"
         }
     ],
     "biz3_cases": [
         {
-            "image": "",
+            "image": "assets/images/index_card_gas_regulating.png",
             "title": "特斯拉上海超级工厂",
             "desc": "定制化中中压区域调压站，响应速度极快，高可靠性保障智能制造生产线的稳定气源供给。"
         },
         {
-            "image": "",
+            "image": "assets/images/index_card_gas_regulating.png",
             "title": "上海迪士尼能源中心",
             "desc": "多路精细配比的高端调压系统，安全级别对标全球顶级乐园的无故障运转要求。"
         },
         {
-            "image": "",
+            "image": "assets/images/index_card_gas_regulating.png",
             "title": "中国商飞上海飞机制造",
             "desc": "提供严苛标准的能源枢纽管控，以高精密的燃气输配设备助力国家航空大飞机的生产与实验研发。"
         },
         {
-            "image": "",
+            "image": "assets/images/index_card_gas_regulating.png",
             "title": "市政燃气骨干网络",
             "desc": "深度服务全国范围内的各大港华燃气与中石油昆仑燃气主控门站，承载海量民生乃至工业侧的高压用能负荷。"
         }
     ],
     "biz4_services": [
         {
-            "image": "",
+            "image": "assets/images/index_main_hero_bg.png",
             "title": "燃机大修与深度维保",
             "desc": "针对各类主流燃气轮机与发电机组，提供年度定检、核心部件深度探伤修复及大修建制化服务。"
         },
         {
-            "image": "",
+            "image": "assets/images/index_main_hero_bg.png",
             "title": "性能优化与寿命延长",
             "desc": "基于数据驱动的系统诊断，进行针对性的技术改造与热网供热(Cogeneration)升级，大幅延长设备寿命。"
         },
         {
-            "image": "",
+            "image": "assets/images/index_main_hero_bg.png",
             "title": "EPC交钥匙工程总包",
             "desc": "覆盖项目工程设计(Engineering)、全球精尖采购(Procurement)及现场施工交付(Construction)的全链条服务。"
         }
     ],
     "biz4_globals": [
         {
-            "image": "",
+            "image": "assets/images/index_main_hero_bg.png",
             "title": "全球覆盖规模",
             "desc": "目前我们的工程服务已延伸至全球 36 个国家和地区，直接服务超过 2000 家大型工业厂区。"
         },
         {
-            "image": "",
+            "image": "assets/images/index_main_hero_bg.png",
             "title": "极速属地化响应",
             "desc": "在全球核心节点派驻经严苛考核的实战型工程师团队，确保突发故障时的第一现场响应速度。"
         },
         {
-            "image": "",
+            "image": "assets/images/index_main_hero_bg.png",
             "title": "供应链与终身技术支持",
             "desc": "打通上下游备件生态，结合云端专家诊断系统，提供跨越国界的即时备品支援与终身技术支持。"
         }
