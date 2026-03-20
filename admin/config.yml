@@ -2,7 +2,7 @@ backend:
   name: github
   repo: kmi2026/kmi-energy-website
   branch: main
-  base_url: https://kmi-energy-website.vercel.app/api
+  base_url: http://www.kmienergy.com/api
 media_folder: assets/images
 public_folder: assets/images
 collections:
