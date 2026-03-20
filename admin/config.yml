@@ -2,7 +2,7 @@ backend:
   name: github
   repo: kmi2026/kmi-energy-website
   branch: main
-  base_url: http://www.kmienergy.com/api
+  base_url: https://www.kmienergy.com/api
 media_folder: assets/images
 public_folder: assets/images
 collections:
