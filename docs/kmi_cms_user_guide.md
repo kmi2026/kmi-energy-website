@@ -23,7 +23,7 @@
 
 ### 步骤 A：打开后台专属网址
 请在任意电脑的浏览器（推荐 Chrome 或 Edge）中输入以下地址：
-👉 **后台入口：[https://kmi-energy-website.vercel.app/admin](https://kmi-energy-website.vercel.app/admin)**
+👉 **后台入口：[https://www.kmienergy.com/admin](https://www.kmienergy.com/admin)**
 *(注：如果加载偏慢请稍等，看到纯黑色的登录界面即代表访问成功)*
 
 ### 步骤 B：一键授权安全登录
@@ -50,7 +50,7 @@
 
 ## ⏳ 3. 常见问题：我改完了，网页什么时候能看到变化？
 - 您在后台点击过【保存】后，并不是一秒生效。因为在这个时间间隙里，云端机器人生在自动花 **大概 1 到 2 分钟左右** 重新打包生成最新、最快的缓存网页静态包。
-- 您稍微倒杯水，**2分钟后**回到网站正式主页：👉 [https://kmi2026.github.io/kmi-energy-website/](https://kmi2026.github.io/kmi-energy-website/)
+- 您稍微倒杯水，**2分钟后**回到网站正式主页：👉 [https://www.kmienergy.com/](https://www.kmienergy.com/)
 - 在键盘上按下 **`F5`** 键（或者 Ctrl+R / Command+R）强制刷新一次网页缓存。
 - 您会惊喜地发现，您心仪的最新文字，就已经如约在全球范围内同步生效了！✨
 

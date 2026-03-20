@@ -31,13 +31,13 @@ KMI Energy 官方企业网站是一个支持中英双语、带有现代化动态
 Vercel 环境承载了我们开发的 Serverless 后端代理接口，因此它是完整运行后台功能的唯一环境。
 - **部署平台**：Vercel
 - **归属账号**：KMI2026 (通过 Github 授权登录绑定的 Vercel 账户)
-- **🔗 官网生产环境外网地址**：[https://kmi-energy-website.vercel.app/](https://kmi-energy-website.vercel.app/)
-- **🔗 CMS 管理后台访问地址**：[https://kmi-energy-website.vercel.app/admin/](https://kmi-energy-website.vercel.app/admin/) 
+- **🔗 官网生产环境外网地址**：[https://www.kmienergy.com/](https://www.kmienergy.com/)
+- **🔗 CMS 管理后台访问地址**：[https://www.kmienergy.com/admin/](https://www.kmienergy.com/admin/) 
   *(切记：管理员编辑修改网站内容时，务必通过此链接登录！)*
 
 ### 备用通道：Github Pages (仅供纯前端展示)
 - **部署平台**：Github Pages
-- **🔗 备用展示测试地址**：[https://kmi2026.github.io/kmi-energy-website/](https://kmi2026.github.io/kmi-energy-website/)
+- **🔗 备用展示测试地址**：[https://www.kmienergy.com/](https://www.kmienergy.com/)
 
 ## 6. 如何重新触发构建与部署
 通常情况下，网站处于 **“全自动化免维护运作 (CI/CD)”** 状态：

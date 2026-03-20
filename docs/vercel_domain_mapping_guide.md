@@ -33,7 +33,7 @@
 
 - [ ] **待办核心项 2: [代码底层] 设定为正式域名**
     1. 在电脑的源码代码或是直接点开 Github 仓库内名叫 `admin/config.yml` 的核心结构文件。
-    2. 在它的开头第 5 行，原本为了兼容旧网络它长这样：`base_url: https://kmi-energy-website.vercel.app/api`
+    2. 在它的开头第 5 行，原本为了兼容旧网络它长这样：`base_url: https://www.kmienergy.com/api`
     3. **立刻将它全面替换成您最终敲定的企业域名加上 `/api` 尾巴的严格 URL 格式：** 
        更改为形如：`base_url: https://kmienergy.com/api` (同样是否带 www 视您第一步规划而定)
     4. 执行 Git Commit 变动并推送提交您的代码至 `main` 分支发布。Vercel 极其灵敏，会在收到推送的不到半分钟内重构新平台，至此 CMS 后台全面融入专有域名！

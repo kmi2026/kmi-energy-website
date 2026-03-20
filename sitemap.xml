@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kmi-energy-website.vercel.app/index.html</loc>
+    <loc>https://www.kmienergy.com/index.html</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://kmi-energy-website.vercel.app/biz1.html</loc>
+    <loc>https://www.kmienergy.com/biz1.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kmi-energy-website.vercel.app/biz2.html</loc>
+    <loc>https://www.kmienergy.com/biz2.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kmi-energy-website.vercel.app/biz3.html</loc>
+    <loc>https://www.kmienergy.com/biz3.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://kmi-energy-website.vercel.app/biz4.html</loc>
+    <loc>https://www.kmienergy.com/biz4.html</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
