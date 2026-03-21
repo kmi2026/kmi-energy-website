@@ -1021,3 +1021,8 @@ a {
 .logo-item:hover .logo-name {
     color: var(--primary-orange) !important;
 }
+
+/* Hard-override to ensure language switcher is globally hidden across all media queries */
+.lang-switcher {
+    display: none !important;
+}
