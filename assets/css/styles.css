@@ -951,3 +951,28 @@ a {
     }
     .logo-grid { gap: 40px !important; }
 }
+
+/* Robust Mobile Navigation Centering Patch */
+@media (max-width: 900px) {
+    .nav-links {
+        align-items: center !important;
+    }
+    .nav-links li {
+        width: 100% !important;
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+        justify-content: center !important;
+    }
+    .nav-links li a {
+        display: inline-flex !important;
+        align-items: center !important;
+        justify-content: center !important;
+        text-align: center !important;
+        gap: 8px; /* For the caret icon */
+    }
+    .nav-links li.dropdown {
+        padding-bottom: 0 !important;
+        margin-bottom: 0 !important;
+    }
+}
