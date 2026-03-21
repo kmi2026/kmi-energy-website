@@ -198,9 +198,7 @@ function renderLogoWall(lang) {
     dataList.forEach((item, idx) => {
         if (!item.name || !item.logo) return;
         const div = document.createElement('div');
-        div.className = 'logo-item fade-up';
-        // Stagger animation delays for entrance effect
-        div.style.animationDelay = `${idx * 0.15}s`;
+        div.className = 'logo-item';
         div.title = item.name;
         div.innerHTML = `<img src="${item.logo}" alt="${item.name}">`;
         grid.appendChild(div);
