@@ -976,3 +976,48 @@ a {
         margin-bottom: 0 !important;
     }
 }
+
+/* Uniform Sizing and Name Label Patch */
+.logo-item {
+    flex-direction: column !important;
+    height: auto !important;
+}
+.logo-img-wrapper {
+    width: 100px !important;
+    height: 100px !important;
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    margin-bottom: 12px !important;
+    background: #ffffff !important;
+    border-radius: 12px;
+    padding: 10px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.03);
+    transition: transform 0.4s ease, box-shadow 0.4s ease;
+}
+.logo-item:hover .logo-img-wrapper {
+    transform: scale(1.1) translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.08);
+}
+.logo-item img {
+    max-height: 100% !important;
+    max-width: 100% !important;
+    object-fit: contain !important;
+    /* Kill the previously conflicting hover transform */
+    transition: none !important;
+}
+.logo-item img:hover {
+    transform: none !important;
+}
+.logo-name {
+    font-size: 0.9rem !important;
+    color: #475569 !important;
+    font-weight: 600 !important;
+    text-align: center !important;
+    max-width: 140px !important;
+    line-height: 1.3 !important;
+    transition: color 0.3s ease !important;
+}
+.logo-item:hover .logo-name {
+    color: var(--primary-orange) !important;
+}

@@ -200,7 +200,12 @@ function renderLogoWall(lang) {
         const div = document.createElement('div');
         div.className = 'logo-item';
         div.title = item.name;
-        div.innerHTML = `<img src="${item.logo}" alt="${item.name}">`;
+        div.innerHTML = `
+            <div class="logo-img-wrapper">
+                <img src="${item.logo}" alt="${item.name}">
+            </div>
+            <span class="logo-name">${item.name}</span>
+        `;
         grid.appendChild(div);
     });
 }
