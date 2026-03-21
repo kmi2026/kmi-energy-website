@@ -880,3 +880,21 @@ a {
     transform: scale(1.15) !important;
     opacity: 0.8;
 }
+
+/* Fix Swiper Vertical Stacking Conflict */
+.logo-grid.swiper {
+    display: block !important;
+    overflow: hidden !important;
+    width: 100%;
+    padding: 20px 0;
+}
+.logo-grid.swiper .swiper-wrapper {
+    display: flex !important;
+    flex-direction: row !important;
+    align-items: center;
+}
+.partner-swiper .logo-item img {
+    max-height: 50px;
+    width: auto;
+    margin: 0 auto;
+}
