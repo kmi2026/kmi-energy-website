@@ -123,6 +123,7 @@ function updateTexts(lang) {
 
     // Render Dynamic Swiper Carousels AFTER static texts update
     renderDynamicSliders(lang);
+    renderLogoWall(lang);
 }
 
 document.addEventListener('DOMContentLoaded', async () => {
@@ -183,3 +184,20 @@ document.addEventListener('DOMContentLoaded', async () => {
         });
     }
 });
+
+function renderLogoWall(lang) {
+    const listKey = 'partners';
+    const dataList = translations[lang] && translations[lang][listKey];
+    const grid = document.querySelector('.logo-grid');
+    if (!grid || !dataList) return;
+
+    grid.innerHTML = '';
+    dataList.forEach(item => {
+        if (!item.name || !item.logo) return;
+        const div = document.createElement('div');
+        div.className = 'logo-item';
+        div.title = item.name;
+        div.innerHTML = `<img src="${item.logo}" alt="${item.name}">`;
+        grid.appendChild(div);
+    });
+}

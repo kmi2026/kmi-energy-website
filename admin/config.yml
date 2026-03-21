@@ -368,6 +368,17 @@ collections:
     - label: 首页 - hero_btn
       name: hero_btn
       widget: string
+    - label: 首页 - 合作商 Logo 墙
+      name: partners
+      widget: list
+      fields:
+      - label: 公司名称
+        name: name
+        widget: string
+      - label: Logo 图片
+        name: logo
+        widget: image
+
     - label: 关于我们 - about_h2
       name: about_h2
       widget: string
