@@ -202,23 +202,23 @@
     "partners": [
         {
             "name": "Mitsubishi Heavy Industries",
-            "logo": "assets/images/logos/logo_mhi.svg"
+            "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.mhi.com&size=256"
         },
         {
             "name": "Shanghai Electric",
-            "logo": "assets/images/logos/logo_shanghai_electric.svg"
+            "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.shanghai-electric.com&size=256"
         },
         {
             "name": "Dongfang Electric",
-            "logo": "assets/images/logos/logo_dongfang.svg"
+            "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.dongfang.com&size=256"
         },
         {
             "name": "Harbin Electric",
-            "logo": "assets/images/logos/logo_harbin.svg"
+            "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.hpec.com&size=256"
         },
         {
             "name": "MAN Energy Solutions",
-            "logo": "assets/images/logos/logo_man.svg"
+            "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.man-es.com&size=256"
         }
     ]
 }
