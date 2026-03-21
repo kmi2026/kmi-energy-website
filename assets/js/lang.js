@@ -191,44 +191,18 @@ function renderLogoWall(lang) {
     const grid = document.querySelector('.logo-grid');
     if (!grid || !dataList) return;
 
+    // Reset Swiper classes and clear duplicates
+    grid.className = 'logo-grid';
     grid.innerHTML = '';
-    const wrapper = document.createElement('div');
-    wrapper.className = 'swiper-wrapper';
 
-    // Duplicate array multiple times to ensure enough track length for smooth infinite looping
-    let renderList = [...dataList, ...dataList, ...dataList];
-
-    renderList.forEach(item => {
+    dataList.forEach((item, idx) => {
         if (!item.name || !item.logo) return;
         const div = document.createElement('div');
-        div.className = 'swiper-slide logo-item';
-        div.style = 'display: flex; justify-content: center; align-items: center; height: 80px;';
+        div.className = 'logo-item fade-up';
+        // Stagger animation delays for entrance effect
+        div.style.animationDelay = `${idx * 0.15}s`;
         div.title = item.name;
-        div.innerHTML = `<img src="${item.logo}" alt="${item.name}" style="max-height: 100%; max-width: 100%; object-fit: contain; transition: transform 0.3s ease;">`;
-        wrapper.appendChild(div);
+        div.innerHTML = `<img src="${item.logo}" alt="${item.name}">`;
+        grid.appendChild(div);
     });
-    
-    grid.appendChild(wrapper);
-    if (!grid.classList.contains('swiper')) {
-        grid.classList.add('swiper', 'partner-swiper');
-    }
-
-    setTimeout(() => {
-        new Swiper('.partner-swiper', {
-            spaceBetween: 80,
-            slidesPerView: 3,
-            breakpoints: {
-                768: { slidesPerView: 4 },
-                1024: { slidesPerView: 5 },
-                1440: { slidesPerView: 6 }
-            },
-            loop: true,
-            speed: 5000,
-            autoplay: {
-                delay: 0,
-                disableOnInteraction: false,
-            },
-            allowTouchMove: false
-        });
-    }, 100);
 }

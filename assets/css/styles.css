@@ -898,3 +898,56 @@ a {
     width: auto;
     margin: 0 auto;
 }
+
+/* STAGGERED FLOATING LOGO WALL OVERRIDES */
+.logo-grid {
+    display: flex !important;
+    flex-wrap: wrap !important;
+    justify-content: center !important;
+    align-items: center !important;
+    gap: 70px !important;
+    padding: 40px 0 !important;
+    width: 100% !important;
+}
+.logo-item {
+    display: flex !important;
+    justify-content: center !important;
+    align-items: center !important;
+    height: 100px !important;
+    flex: 0 1 180px !important;
+    animation: floatAnim 6s ease-in-out infinite !important;
+}
+
+/* Interlacing (交错) Effect */
+.logo-item:nth-child(even) {
+    margin-top: 50px !important;
+    animation-delay: -3s !important; /* Offset the float sync */
+}
+.logo-item:nth-child(odd) {
+    margin-top: -30px !important;
+}
+
+.logo-item img {
+    max-height: 80px !important;
+    max-width: 100% !important;
+    object-fit: contain !important;
+    transition: transform 0.5s cubic-bezier(0.175, 0.885, 0.32, 1.275), filter 0.3s !important;
+    filter: drop-shadow(0px 4px 6px rgba(0,0,0,0.06)) !important;
+}
+.logo-item img:hover {
+    transform: scale(1.25) translateY(-5px) !important;
+    filter: drop-shadow(0px 10px 15px rgba(0,0,0,0.15)) !important;
+}
+
+@keyframes floatAnim {
+    0% { transform: translateY(0px); }
+    50% { transform: translateY(-15px); }
+    100% { transform: translateY(0px); }
+}
+
+@media (max-width: 768px) {
+    .logo-item:nth-child(even), .logo-item:nth-child(odd) {
+        margin-top: 0 !important;
+    }
+    .logo-grid { gap: 40px !important; }
+}
