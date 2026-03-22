@@ -1,224 +1,224 @@
 {
-    "site_title": "KMI Energy - Empowering Global Energy | Noise Reduction & Power Solutions",
-    "nav_home": "Home",
-    "nav_about": "About Us",
-    "nav_contact": "Contact Us",
-    "nav_business": "Solutions",
-    "nav_maintenance": "Services",
-    "hero_h1": "Pioneering Energy, Driving the Future",
-    "hero_p": "Providing top-tier noise reduction, power generation, and gas regulation solutions for global energy and industrial equipment.",
-    "hero_btn": "Explore Solutions",
-    "about_h2": "About DataPower & KMI",
-    "about_h3": "Powering Every Megawatt of the Future",
-    "about_p1": "Amid the surge in global power demand driven by the AI era, scalable on-site power solutions are becoming critical infrastructure. <strong>DataPower</strong> focuses on on-site power solutions, designing and delivering power plants for grid stability, large industrial projects, and mining operations.",
-    "about_p2": "Our flexible, modular power generation systems can rapidly deploy megawatts of capacity in just weeks, avoiding the years required for traditional grid expansion. We are also a premium supplier for Dongfang Electric and AECC, serving global clients with technological innovation, highly competitive ROI (1/5 the price of traditional brands), and agile delivery cycles.",
-    "stat_1": "Shorter Delivery Time",
-    "stat_2": "Higher Client ROI",
-    "stat_3": "Global Industrial Deliveries",
-    "biz_h2": "Our Core Business",
-    "biz_sub": "Five major business segments building a full life-cycle guarantee system for energy and industrial equipment",
-    "biz1_title": "Soundproofing Solutions",
-    "biz1_p": "Targeting the noise control needs of energy and industrial equipment. Providing standardized and customized soundproof enclosures for gas turbine OEMs like GE and Siemens Energy. Offering turnkey solutions from acoustic design, product R&D to CFD thermal/ventilation analysis.",
-    "biz2_title": "Gas Generator Sets",
-    "biz2_p": "DataPower's flexible modular power generation systems can be deployed in weeks. An on-site core energy engine specifically designed to support AI computing centers, large industrial, and mining projects.",
-    "biz3_title": "Gas Regulating Systems",
-    "biz3_p": "As a key front-end device for gas turbine power systems, it is responsible for stabilizing, regulating, and filtering high-pressure natural gas. It's the 'brain and safety valve' of the combustion system, ensuring impurity-free natural gas injection and preventing pressure fluctuation damage.",
-    "biz4_title": "Global Localized O&M",
-    "biz4_p": "Relying on our global localized engineering teams, we provide professional inspection, daily maintenance, overhaul, technical upgrade, and diagnostic services.",
-    "maint_h2": "Business 05: Global Localized O&M",
-    "maint_h3": "Ensuring Stable Output Throughout the Equipment Life Cycle",
-    "maint_p": "Relying on our localized engineering teams established globally, we provide professional inspection, maintenance, technical upgrades, and diagnostic services for gas turbines and natural gas generator sets.",
-    "maint_li1": "<strong>Rapid Response:</strong> Localized layouts achieve the shortest assembly times, reducing downtime risks.",
-    "maint_li2": "<strong>Full-Cycle Service:</strong> From daily maintenance and overhauls to performance optimization and spare parts replacement.",
-    "maint_li3": "<strong>Professional Diagnostics:</strong> Comprehensive expert-level diagnostic systems for gas turbines and power equipment.",
-    "foot_desc": "A globally leading turnkey engineering supplier for energy noise reduction and on-site power generation systems.",
-    "foot_link": "Quick Links",
-    "foot_contact": "Contact Us",
-    "foot_email": "Email : info@kmienergy.com",
-    "foot_copy": "&copy; 2026 KMI Energy. All Rights Reserved.",
-    "lang_title": "Select Language",
-    "nav_biz1": "Soundproof Solutions",
-    "nav_biz2": "Gas Generator Sets",
-    "nav_biz3": "Gas Regulating Systems",
-    "nav_biz4": "Global Localized O&M",
-    "biz1_page_title": "Soundproof Solutions | KMI Energy",
-    "biz1_hero_h1": "Soundproof Solutions",
-    "biz1_hero_p": "23 years focusing on noise control, comprehensive engineering service provider for noise and vibration control.",
-    "biz1_strength_h2": "Our Strength",
-    "biz1_str1_t": "Scale Production & Strong Strength",
-    "biz1_str1_d": "Over 40,000m² production base, imported CNC high-precision machining centers, automatic painting lines.",
-    "biz1_str2_t": "Innovative R&D & Strong Technology",
-    "biz1_str2_d": "Microcrystalline damping and noise reduction technology, professional acoustic laboratory, R&D team of over 160 people.",
-    "biz1_prod_h2": "Core Product Series",
-    "biz1_products": [
-        {
-            "image": "assets/images/biz1_1_soundproof.png",
-            "title": "Soundproof Room Series",
-            "desc": "Integrating modern manufacturing, construction engineering, acoustic technology, and aesthetics. An environmentally friendly equipment designed to improve and control severe noise pollution."
-        },
-        {
-            "image": "assets/images/biz1_2_mute.png",
-            "title": "Mute Room Series",
-            "desc": "Isolating a quiet room in a noisy environment, commonly used for product testing and special occasions requiring an absolutely silent environment."
-        },
-        {
-            "image": "assets/images/biz1_3_anechoic.png",
-            "title": "Anechoic Chamber Series",
-            "desc": "Building a free sound field in a closed space, ensuring sound waves extend evenly in all directions to provide the ultimate acoustic test environment."
-        }
-    ],
-    "biz1_global_h2": "Global Service",
-    "biz1_global_p": "Business covers 36 countries and regions worldwide, providing professional services for over 2000 factories. We guard clients' efficient production with professional acoustic technology.",
-    "biz2_page_title": "Gas Generator Sets | KMI Energy",
-    "biz2_hero_h1": "Gas Generator Sets",
-    "biz2_hero_p": "Rapidly deploy megawatts of power in weeks. An on-site core energy engine specifically designed to support AI computing centers and large industrial projects.",
-    "biz2_brand_h2": "Supported & Cooperative Brands",
-    "biz2_brands": [
-        {
-            "image": "assets/images/biz2_b1_ge.png",
-            "title": "GE Aerospace & Vernova",
-            "desc": "Supporting heavy-duty and aeroderivative gas turbine generator sets including 6B, 6F, 7E, 7HA, 9E, 9F, and 9HA series. Providing cutting-edge flexible power solutions."
-        },
-        {
-            "image": "assets/images/biz2_b2_siemens.png",
-            "title": "Siemens & Alstom",
-            "desc": "Comprehensive coverage of classic and advanced models such as GT11N2, GT13E2, GT24, and GT26. Ensuring high operational efficiency and excellent reliability."
-        },
-        {
-            "image": "assets/images/biz2_b3_ansaldo.png",
-            "title": "Ansaldo Energia",
-            "desc": "Covering series like AE64.3A, AE94.2, AE94.3A, and GT36, offering deep services for mature European heavy-duty gas turbine technologies."
-        }
-    ],
-    "biz2_models_h2": "Featured Models",
-    "biz2_models": [
-        {
-            "image": "assets/images/biz2_m1_ha.png",
-            "title": "GE 9HA/7HA Series",
-            "desc": "The efficiency king of the gas turbine market, breaking performance boundaries. Highly suitable for ultra-large computing centers and high-load grid support."
-        },
-        {
-            "image": "assets/images/biz2_m2_gt.png",
-            "title": "Alstom GT26",
-            "desc": "Units with excellent operational flexibility and partial load efficiency. Fast startup and shutdown, highly adaptable to varied power grid demands."
-        },
-        {
-            "image": "assets/images/biz2_m3_ae.png",
-            "title": "Ansaldo AE94.3A",
-            "desc": "The perfect combination of rock-solid stability and high cost-effectiveness. The premier choice for long-term stable operation in comprehensive industrial complexes."
-        }
-    ],
-    "biz2_service_h2": "High Value-added Comprehensive Capabilities",
-    "biz2_service_p": "With Bowzon's over 20 years of profound accumulation in the global industrial power equipment field, we offer new and used gas generator sets, genuine spare parts, as well as turnkey solutions from professional assessment, unit recovery, deep renovation to site commissioning, ensuring full-lifecycle performance guarantee and asset appreciation.",
-    "biz3_page_title": "Gas Regulating Systems | KMI Energy",
-    "biz3_hero_h1": "Gas Regulating Systems",
-    "biz3_hero_p": "Building secure gas arteries for cities and industries, providing full-scenario pressure regulation solutions from high-pressure transmission to low-pressure residential distribution.",
-    "biz3_prod_h2": "Core Products & Equipment",
-    "biz3_products": [
-        {
-            "image": "assets/images/biz3_p1_transmission.png",
-            "title": "High-Medium Pressure Transmission & City Gate Stations",
-            "desc": "Tailor-made large hub skids supporting series monitoring and regulation, 1-duty 1-standby structure, equipped with gas leak alarms and electric tracing heating. Fully ensuring the stability and safety of urban and industrial arteries."
-        },
-        {
-            "image": "assets/images/biz3_p2_regional.png",
-            "title": "Regional Regulating & Metering Stations",
-            "desc": "High-standard integrated packaging using high-strength anti-corrosion stainless steel cabinets. Covering medium-to-medium and medium-to-low pressure micro-circulation control to smartly achieve precise flow stabilization and metering."
-        },
-        {
-            "image": "assets/images/biz3_p3_filter.png",
-            "title": "High-Pressure Gas Filters",
-            "desc": "A pure shield in high-pressure, high-flow environments. Filtration efficiency reaches 99.8%, with precision up to 10μ. Standardly equipped with imported quick-opening blind plates and remote differential pressure data signal warnings."
-        }
-    ],
-    "biz3_case_h2": "Featured Projects Showcase",
-    "biz3_cases": [
-        {
-            "image": "assets/images/biz3_c1_tesla.png",
-            "title": "Tesla Shanghai Gigafactory",
-            "desc": "Customized medium-to-medium pressure regional regulating station with highly responsive and reliable design, ensuring stable gas supply for smart manufacturing production lines."
-        },
-        {
-            "image": "assets/images/biz3_c2_disney.png",
-            "title": "Shanghai Disney Energy Center",
-            "desc": "High-end regulating system with precise multi-path proportioning, meeting the failure-free operation safety levels demanded by world top-tier theme parks."
-        },
-        {
-            "image": "assets/images/biz3_c3_comac.png",
-            "title": "COMAC Shanghai Aircraft Manufacturing",
-            "desc": "Providing strictly standardized energy hub management, assisting the production and R&D of national wide-body aircraft with high-precision gas transmission equipment."
-        },
-        {
-            "image": "assets/images/biz3_c4_municipal.png",
-            "title": "Municipal Gas Backbone Networks",
-            "desc": "Deeply serving major master gate stations for Towngas and PetroChina Kunlun Gas nationwide, accommodating massive high-pressure energy loads for civilian and industrial use."
-        }
-    ],
-    "biz4_page_title": "Global Localized O&M | KMI Energy",
-    "biz4_hero_h1": "Global Localized O&M",
-    "biz4_hero_p": "Building a global service network spanning 36 countries and regions to provide full-lifecycle energy protection from overhaul to optimization.",
-    "biz4_core_h2": "Core O&M Services",
-    "biz4_services": [
-        {
-            "image": "assets/images/biz4_s1_overhaul.png",
-            "title": "Turbine Overhaul & Deep Maintenance",
-            "desc": "Providing annual scheduled inspections, deep flaw detection and repair of core components, and fully structured overhaul services for various mainstream gas turbines and generator sets."
-        },
-        {
-            "image": "assets/images/biz4_s2_optimization.png",
-            "title": "Performance Optimization & Life Extension",
-            "desc": "Data-driven system diagnostics to conduct targeted technical upgrades and district heating (Cogeneration) retrofits, significantly extending equipment lifespan."
-        },
-        {
-            "image": "assets/images/biz4_s3_epc.png",
-            "title": "EPC Turnkey Project General Contracting",
-            "desc": "End-to-end full-chain services covering project Engineering, global top-tier Procurement, and on-site Construction delivery."
-        }
-    ],
-    "biz4_global_h2": "Global Capabilities",
-    "biz4_globals": [
-        {
-            "image": "assets/images/biz4_g1_scale.png",
-            "title": "Global Coverage Scale",
-            "desc": "Our engineering services presently extend to 36 countries and regions worldwide, directly serving over 2000 large-scale industrial plants."
-        },
-        {
-            "image": "assets/images/biz4_g2_response.png",
-            "title": "Rapid Localized Response",
-            "desc": "Deploying strictly assessed, combat-ready engineer teams at global core nodes to ensure fastest on-site response during sudden failures."
-        },
-        {
-            "image": "assets/images/biz4_g3_support.png",
-            "title": "Supply Chain & Lifetime Tech Support",
-            "desc": "Connecting upstream and downstream spare parts ecosystems, combined with cloud expert diagnostic systems, providing instant cross-border spare parts relief and lifetime technical support."
-        }
-    ],
-    "contact_form_title": "Request a Quote / Contact Us",
-    "form_name": "Your Name",
-    "form_email": "Email Address",
-    "form_company": "Company Name (Optional)",
-    "form_message": "How can we help you?",
-    "form_submit": "Send Message",
-    "partners": [
-        {
-            "name": "Mitsubishi Heavy Industries",
-            "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.mhi.com&size=256"
-        },
-        {
-            "name": "Shanghai Electric",
-            "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.shanghai-electric.com&size=256"
-        },
-        {
-            "name": "Dongfang Electric",
-            "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.dongfang.com&size=256"
-        },
-        {
-            "name": "Harbin Electric",
-            "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.hpec.com&size=256"
-        },
-        {
-            "name": "MAN Energy Solutions",
-            "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.man-es.com&size=256"
-        }
-    ]
+  "site_title": "KMI Energy - Empowering Global Energy | Noise Reduction & Power Solutions",
+  "nav_home": "Home",
+  "nav_about": "About Us",
+  "nav_contact": "Contact Us",
+  "nav_business": "Solutions",
+  "nav_maintenance": "Services",
+  "hero_h1": "Pioneering Energy, Driving the Future",
+  "hero_p": "Providing top-tier noise reduction, power generation, and gas regulation solutions for global energy and industrial equipment.",
+  "hero_btn": "Explore Solutions",
+  "partners": [
+    {
+      "name": "Mitsubishi Heavy Industries",
+      "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.mhi.com&size=256"
+    },
+    {
+      "name": "Shanghai Electric",
+      "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.shanghai-electric.com&size=256"
+    },
+    {
+      "name": "Dongfang Electric",
+      "logo": "/assets/images/logo_dongfang.png"
+    },
+    {
+      "name": "Harbin Electric",
+      "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.hpec.com&size=256"
+    },
+    {
+      "name": "MAN Energy Solutions",
+      "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.man-es.com&size=256"
+    }
+  ],
+  "about_h2": "About DataPower & KMI",
+  "about_h3": "Powering Every Megawatt of the Future",
+  "about_p1": "Amid the surge in global power demand driven by the AI era, scalable on-site power solutions are becoming critical infrastructure. <strong>DataPower</strong> focuses on on-site power solutions, designing and delivering power plants for grid stability, large industrial projects, and mining operations.",
+  "about_p2": "Our flexible, modular power generation systems can rapidly deploy megawatts of capacity in just weeks, avoiding the years required for traditional grid expansion. We are also a premium supplier for Dongfang Electric and AECC, serving global clients with technological innovation, highly competitive ROI (1/5 the price of traditional brands), and agile delivery cycles.",
+  "stat_1": "Shorter Delivery Time",
+  "stat_2": "Higher Client ROI",
+  "stat_3": "Global Industrial Deliveries",
+  "biz_h2": "Our Core Business",
+  "biz_sub": "Five major business segments building a full life-cycle guarantee system for energy and industrial equipment",
+  "biz1_title": "Soundproofing Solutions",
+  "biz1_p": "Targeting the noise control needs of energy and industrial equipment. Providing standardized and customized soundproof enclosures for gas turbine OEMs like GE and Siemens Energy. Offering turnkey solutions from acoustic design, product R&D to CFD thermal/ventilation analysis.",
+  "biz2_title": "Gas Generator Sets",
+  "biz2_p": "DataPower's flexible modular power generation systems can be deployed in weeks. An on-site core energy engine specifically designed to support AI computing centers, large industrial, and mining projects.",
+  "biz3_title": "Gas Regulating Systems",
+  "biz3_p": "As a key front-end device for gas turbine power systems, it is responsible for stabilizing, regulating, and filtering high-pressure natural gas. It's the 'brain and safety valve' of the combustion system, ensuring impurity-free natural gas injection and preventing pressure fluctuation damage.",
+  "biz4_title": "Global Localized O&M",
+  "biz4_p": "Relying on our global localized engineering teams, we provide professional inspection, daily maintenance, overhaul, technical upgrade, and diagnostic services.",
+  "maint_h2": "Business 05: Global Localized O&M",
+  "maint_h3": "Ensuring Stable Output Throughout the Equipment Life Cycle",
+  "maint_p": "Relying on our localized engineering teams established globally, we provide professional inspection, maintenance, technical upgrades, and diagnostic services for gas turbines and natural gas generator sets.",
+  "maint_li1": "<strong>Rapid Response:</strong> Localized layouts achieve the shortest assembly times, reducing downtime risks.",
+  "maint_li2": "<strong>Full-Cycle Service:</strong> From daily maintenance and overhauls to performance optimization and spare parts replacement.",
+  "maint_li3": "<strong>Professional Diagnostics:</strong> Comprehensive expert-level diagnostic systems for gas turbines and power equipment.",
+  "foot_desc": "A globally leading turnkey engineering supplier for energy noise reduction and on-site power generation systems.",
+  "foot_link": "Quick Links",
+  "foot_contact": "Contact Us",
+  "foot_email": "Email : info@kmienergy.com",
+  "foot_copy": "&copy; 2026 KMI Energy. All Rights Reserved.",
+  "lang_title": "Select Language",
+  "nav_biz1": "Soundproof Solutions",
+  "nav_biz2": "Gas Generator Sets",
+  "nav_biz3": "Gas Regulating Systems",
+  "nav_biz4": "Global Localized O&M",
+  "biz1_page_title": "Soundproof Solutions | KMI Energy",
+  "biz1_hero_h1": "Soundproof Solutions",
+  "biz1_hero_p": "23 years focusing on noise control, comprehensive engineering service provider for noise and vibration control.",
+  "biz1_strength_h2": "Our Strength",
+  "biz1_str1_t": "Scale Production & Strong Strength",
+  "biz1_str1_d": "Over 40,000m² production base, imported CNC high-precision machining centers, automatic painting lines.",
+  "biz1_str2_t": "Innovative R&D & Strong Technology",
+  "biz1_str2_d": "Microcrystalline damping and noise reduction technology, professional acoustic laboratory, R&D team of over 160 people.",
+  "biz1_prod_h2": "Core Product Series",
+  "biz1_products": [
+    {
+      "image": "assets/images/biz1_1_soundproof.png",
+      "title": "Soundproof Room Series",
+      "desc": "Integrating modern manufacturing, construction engineering, acoustic technology, and aesthetics. An environmentally friendly equipment designed to improve and control severe noise pollution."
+    },
+    {
+      "image": "assets/images/biz1_2_mute.png",
+      "title": "Mute Room Series",
+      "desc": "Isolating a quiet room in a noisy environment, commonly used for product testing and special occasions requiring an absolutely silent environment."
+    },
+    {
+      "image": "assets/images/biz1_3_anechoic.png",
+      "title": "Anechoic Chamber Series",
+      "desc": "Building a free sound field in a closed space, ensuring sound waves extend evenly in all directions to provide the ultimate acoustic test environment."
+    }
+  ],
+  "biz1_global_h2": "Global Service",
+  "biz1_global_p": "Business covers 36 countries and regions worldwide, providing professional services for over 2000 factories. We guard clients' efficient production with professional acoustic technology.",
+  "biz2_page_title": "Gas Generator Sets | KMI Energy",
+  "biz2_hero_h1": "Gas Generator Sets",
+  "biz2_hero_p": "Rapidly deploy megawatts of power in weeks. An on-site core energy engine specifically designed to support AI computing centers and large industrial projects.",
+  "biz2_brand_h2": "Supported & Cooperative Brands",
+  "biz2_brands": [
+    {
+      "image": "assets/images/biz2_b1_ge.png",
+      "title": "GE Aerospace & Vernova",
+      "desc": "Supporting heavy-duty and aeroderivative gas turbine generator sets including 6B, 6F, 7E, 7HA, 9E, 9F, and 9HA series. Providing cutting-edge flexible power solutions."
+    },
+    {
+      "image": "assets/images/biz2_b2_siemens.png",
+      "title": "Siemens & Alstom",
+      "desc": "Comprehensive coverage of classic and advanced models such as GT11N2, GT13E2, GT24, and GT26. Ensuring high operational efficiency and excellent reliability."
+    },
+    {
+      "image": "assets/images/biz2_b3_ansaldo.png",
+      "title": "Ansaldo Energia",
+      "desc": "Covering series like AE64.3A, AE94.2, AE94.3A, and GT36, offering deep services for mature European heavy-duty gas turbine technologies."
+    }
+  ],
+  "biz2_models_h2": "Featured Models",
+  "biz2_models": [
+    {
+      "image": "assets/images/biz2_m1_ha.png",
+      "title": "GE 9HA/7HA Series",
+      "desc": "The efficiency king of the gas turbine market, breaking performance boundaries. Highly suitable for ultra-large computing centers and high-load grid support."
+    },
+    {
+      "image": "assets/images/biz2_m2_gt.png",
+      "title": "Alstom GT26",
+      "desc": "Units with excellent operational flexibility and partial load efficiency. Fast startup and shutdown, highly adaptable to varied power grid demands."
+    },
+    {
+      "image": "assets/images/biz2_m3_ae.png",
+      "title": "Ansaldo AE94.3A",
+      "desc": "The perfect combination of rock-solid stability and high cost-effectiveness. The premier choice for long-term stable operation in comprehensive industrial complexes."
+    }
+  ],
+  "biz2_service_h2": "High Value-added Comprehensive Capabilities",
+  "biz2_service_p": "With Bowzon's over 20 years of profound accumulation in the global industrial power equipment field, we offer new and used gas generator sets, genuine spare parts, as well as turnkey solutions from professional assessment, unit recovery, deep renovation to site commissioning, ensuring full-lifecycle performance guarantee and asset appreciation.",
+  "biz3_page_title": "Gas Regulating Systems | KMI Energy",
+  "biz3_hero_h1": "Gas Regulating Systems",
+  "biz3_hero_p": "Building secure gas arteries for cities and industries, providing full-scenario pressure regulation solutions from high-pressure transmission to low-pressure residential distribution.",
+  "biz3_prod_h2": "Core Products & Equipment",
+  "biz3_products": [
+    {
+      "image": "assets/images/biz3_p1_transmission.png",
+      "title": "High-Medium Pressure Transmission & City Gate Stations",
+      "desc": "Tailor-made large hub skids supporting series monitoring and regulation, 1-duty 1-standby structure, equipped with gas leak alarms and electric tracing heating. Fully ensuring the stability and safety of urban and industrial arteries."
+    },
+    {
+      "image": "assets/images/biz3_p2_regional.png",
+      "title": "Regional Regulating & Metering Stations",
+      "desc": "High-standard integrated packaging using high-strength anti-corrosion stainless steel cabinets. Covering medium-to-medium and medium-to-low pressure micro-circulation control to smartly achieve precise flow stabilization and metering."
+    },
+    {
+      "image": "assets/images/biz3_p3_filter.png",
+      "title": "High-Pressure Gas Filters",
+      "desc": "A pure shield in high-pressure, high-flow environments. Filtration efficiency reaches 99.8%, with precision up to 10μ. Standardly equipped with imported quick-opening blind plates and remote differential pressure data signal warnings."
+    }
+  ],
+  "biz3_case_h2": "Featured Projects Showcase",
+  "biz3_cases": [
+    {
+      "image": "assets/images/biz3_c1_tesla.png",
+      "title": "Tesla Shanghai Gigafactory",
+      "desc": "Customized medium-to-medium pressure regional regulating station with highly responsive and reliable design, ensuring stable gas supply for smart manufacturing production lines."
+    },
+    {
+      "image": "assets/images/biz3_c2_disney.png",
+      "title": "Shanghai Disney Energy Center",
+      "desc": "High-end regulating system with precise multi-path proportioning, meeting the failure-free operation safety levels demanded by world top-tier theme parks."
+    },
+    {
+      "image": "assets/images/biz3_c3_comac.png",
+      "title": "COMAC Shanghai Aircraft Manufacturing",
+      "desc": "Providing strictly standardized energy hub management, assisting the production and R&D of national wide-body aircraft with high-precision gas transmission equipment."
+    },
+    {
+      "image": "assets/images/biz3_c4_municipal.png",
+      "title": "Municipal Gas Backbone Networks",
+      "desc": "Deeply serving major master gate stations for Towngas and PetroChina Kunlun Gas nationwide, accommodating massive high-pressure energy loads for civilian and industrial use."
+    }
+  ],
+  "biz4_page_title": "Global Localized O&M | KMI Energy",
+  "biz4_hero_h1": "Global Localized O&M",
+  "biz4_hero_p": "Building a global service network spanning 36 countries and regions to provide full-lifecycle energy protection from overhaul to optimization.",
+  "biz4_core_h2": "Core O&M Services",
+  "biz4_services": [
+    {
+      "image": "assets/images/biz4_s1_overhaul.png",
+      "title": "Turbine Overhaul & Deep Maintenance",
+      "desc": "Providing annual scheduled inspections, deep flaw detection and repair of core components, and fully structured overhaul services for various mainstream gas turbines and generator sets."
+    },
+    {
+      "image": "assets/images/biz4_s2_optimization.png",
+      "title": "Performance Optimization & Life Extension",
+      "desc": "Data-driven system diagnostics to conduct targeted technical upgrades and district heating (Cogeneration) retrofits, significantly extending equipment lifespan."
+    },
+    {
+      "image": "assets/images/biz4_s3_epc.png",
+      "title": "EPC Turnkey Project General Contracting",
+      "desc": "End-to-end full-chain services covering project Engineering, global top-tier Procurement, and on-site Construction delivery."
+    }
+  ],
+  "biz4_global_h2": "Global Capabilities",
+  "biz4_globals": [
+    {
+      "image": "assets/images/biz4_g1_scale.png",
+      "title": "Global Coverage Scale",
+      "desc": "Our engineering services presently extend to 36 countries and regions worldwide, directly serving over 2000 large-scale industrial plants."
+    },
+    {
+      "image": "assets/images/biz4_g2_response.png",
+      "title": "Rapid Localized Response",
+      "desc": "Deploying strictly assessed, combat-ready engineer teams at global core nodes to ensure fastest on-site response during sudden failures."
+    },
+    {
+      "image": "assets/images/biz4_g3_support.png",
+      "title": "Supply Chain & Lifetime Tech Support",
+      "desc": "Connecting upstream and downstream spare parts ecosystems, combined with cloud expert diagnostic systems, providing instant cross-border spare parts relief and lifetime technical support."
+    }
+  ],
+  "contact_form_title": "Request a Quote / Contact Us",
+  "form_name": "Your Name",
+  "form_email": "Email Address",
+  "form_company": "Company Name (Optional)",
+  "form_message": "How can we help you?",
+  "form_submit": "Send Message"
 }
