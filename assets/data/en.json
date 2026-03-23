@@ -97,12 +97,12 @@
   "biz2_brand_h2": "Featured Models",
   "biz2_brands": [
     {
-      "image": "assets/images/biz2_b1_ge.png",
+      "image": "/assets/images/微信图片_20260323134623_3_9.jpg",
       "title": "Gas Generator Sets",
       "desc": "Supporting heavy-duty and aeroderivative gas turbine generator sets including 6B, 6F, 7E, 7HA, 9E, 9F, and 9HA series. Providing cutting-edge flexible power solutions."
     },
     {
-      "image": "assets/images/biz2_b3_ansaldo.png",
+      "image": "/assets/images/微信图片_20260323134623_3_9.jpg",
       "title": "Methanol Generator Sets",
       "desc": "Covering series like AE64.3A, AE94.2, AE94.3A, and GT36, offering deep services for mature European heavy-duty gas turbine technologies."
     }
