@@ -195,17 +195,17 @@
   "biz4_global_h2": "Global Capabilities",
   "biz4_globals": [
     {
-      "image": "assets/images/biz4_g1_scale.png",
+      "image": "/assets/images/微信图片_20260323151014_22_9.png",
       "title": "Global Coverage Scale",
       "desc": "Our engineering services presently extend to 36 countries and regions worldwide, directly serving over 2000 large-scale industrial plants."
     },
     {
-      "image": "assets/images/biz4_g2_response.png",
+      "image": "/assets/images/图片3.jpg",
       "title": "Rapid Localized Response",
       "desc": "Deploying strictly assessed, combat-ready engineer teams at global core nodes to ensure fastest on-site response during sudden failures."
     },
     {
-      "image": "assets/images/biz4_g3_support.png",
+      "image": "/assets/images/微信图片_20260323151126_27_9.png",
       "title": "Supply Chain & Lifetime Tech Support",
       "desc": "Connecting upstream and downstream spare parts ecosystems, combined with cloud expert diagnostic systems, providing instant cross-border spare parts relief and lifetime technical support."
     }
