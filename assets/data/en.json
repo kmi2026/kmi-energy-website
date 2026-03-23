@@ -74,17 +74,17 @@
   "biz1_prod_h2": "Core Product Series",
   "biz1_products": [
     {
-      "image": "assets/images/biz1_1_soundproof.png",
+      "image": "/assets/images/微信图片_20260323132827_2_49.png",
       "title": "Soundproof Room Series",
       "desc": "Integrating modern manufacturing, construction engineering, acoustic technology, and aesthetics. An environmentally friendly equipment designed to improve and control severe noise pollution."
     },
     {
-      "image": "assets/images/biz1_2_mute.png",
+      "image": "/assets/images/微信图片_20260323134650_8_9.jpg",
       "title": "Mute Room Series",
       "desc": "Isolating a quiet room in a noisy environment, commonly used for product testing and special occasions requiring an absolutely silent environment."
     },
     {
-      "image": "assets/images/biz1_3_anechoic.png",
+      "image": "/assets/images/ScreenShot_2026-03-23_134812_071.png",
       "title": "Anechoic Chamber Series",
       "desc": "Building a free sound field in a closed space, ensuring sound waves extend evenly in all directions to provide the ultimate acoustic test environment."
     }
