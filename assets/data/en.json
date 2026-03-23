@@ -151,17 +151,17 @@
   "biz3_case_h2": "Featured Projects Showcase",
   "biz3_cases": [
     {
-      "image": "assets/images/biz3_c1_tesla.png",
+      "image": "/assets/images/微信图片_20260323140836_13_9.png",
       "title": "Tesla Shanghai Gigafactory",
       "desc": "Customized medium-to-medium pressure regional regulating station with highly responsive and reliable design, ensuring stable gas supply for smart manufacturing production lines."
     },
     {
-      "image": "assets/images/biz3_c2_disney.png",
+      "image": "/assets/images/微信图片_20260323140846_15_9.png",
       "title": "Shanghai Disney Energy Center",
       "desc": "High-end regulating system with precise multi-path proportioning, meeting the failure-free operation safety levels demanded by world top-tier theme parks."
     },
     {
-      "image": "assets/images/biz3_c3_comac.png",
+      "image": "/assets/images/微信图片_20260323140856_17_9.png",
       "title": "COMAC Shanghai Aircraft Manufacturing",
       "desc": "Providing strictly standardized energy hub management, assisting the production and R&D of national wide-body aircraft with high-precision gas transmission equipment."
     },
