@@ -41,7 +41,7 @@
   "biz_sub": "Five major business segments building a full life-cycle guarantee system for energy and industrial equipment",
   "biz1_title": "Soundproofing Solutions",
   "biz1_p": "Targeting the noise control needs of energy and industrial equipment. Providing standardized and customized soundproof enclosures for gas turbine OEMs like GE and Siemens Energy. Offering turnkey solutions from acoustic design, product R&D to CFD thermal/ventilation analysis.",
-  "biz2_title": "Gas Generator Sets",
+  "biz2_title": "Distributed Energy Solutions",
   "biz2_p": "DataPower's flexible modular power generation systems can be deployed in weeks. An on-site core energy engine specifically designed to support AI computing centers, large industrial, and mining projects.",
   "biz3_title": "Gas Regulating Systems",
   "biz3_p": "As a key front-end device for gas turbine power systems, it is responsible for stabilizing, regulating, and filtering high-pressure natural gas. It's the 'brain and safety valve' of the combustion system, ensuring impurity-free natural gas injection and preventing pressure fluctuation damage.",
@@ -60,7 +60,7 @@
   "foot_copy": "&copy; 2026 KMI Energy. All Rights Reserved.",
   "lang_title": "Select Language",
   "nav_biz1": "Soundproof Solutions",
-  "nav_biz2": "Gas Generator Sets",
+  "nav_biz2": "Distributed Energy Solutions",
   "nav_biz3": "Gas Regulating Systems",
   "nav_biz4": "Global Localized O&M",
   "biz1_page_title": "Soundproof Solutions | KMI Energy",
@@ -91,24 +91,19 @@
   ],
   "biz1_global_h2": "Global Service",
   "biz1_global_p": "Business covers 36 countries and regions worldwide, providing professional services for over 2000 factories. We guard clients' efficient production with professional acoustic technology.",
-  "biz2_page_title": "Gas Generator Sets | KMI Energy",
-  "biz2_hero_h1": "Gas Generator Sets",
+  "biz2_page_title": "Distributed Energy Solutions | KMI Energy",
+  "biz2_hero_h1": "Distributed Energy Solutions",
   "biz2_hero_p": "Rapidly deploy megawatts of power in weeks. An on-site core energy engine specifically designed to support AI computing centers and large industrial projects.",
-  "biz2_brand_h2": "Supported & Cooperative Brands",
+  "biz2_brand_h2": "Featured Models",
   "biz2_brands": [
     {
       "image": "assets/images/biz2_b1_ge.png",
-      "title": "GE Aerospace & Vernova",
+      "title": "Gas Generator Sets",
       "desc": "Supporting heavy-duty and aeroderivative gas turbine generator sets including 6B, 6F, 7E, 7HA, 9E, 9F, and 9HA series. Providing cutting-edge flexible power solutions."
     },
     {
-      "image": "assets/images/biz2_b2_siemens.png",
-      "title": "Siemens & Alstom",
-      "desc": "Comprehensive coverage of classic and advanced models such as GT11N2, GT13E2, GT24, and GT26. Ensuring high operational efficiency and excellent reliability."
-    },
-    {
       "image": "assets/images/biz2_b3_ansaldo.png",
-      "title": "Ansaldo Energia",
+      "title": "Methanol Generator Sets",
       "desc": "Covering series like AE64.3A, AE94.2, AE94.3A, and GT36, offering deep services for mature European heavy-duty gas turbine technologies."
     }
   ],
