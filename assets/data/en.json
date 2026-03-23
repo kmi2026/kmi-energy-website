@@ -107,26 +107,26 @@
       "desc": "KMI-M Series\nPower Range: 30kW - 2MW  \nFuel Type: Methanol / Methanol Dual-Fuel\nElectrical Efficiency: 40%+\nAdvantages: Low-carbon, Zero Sulfur, Low NOx, Easy Storage & Transport\nApplications: Backup Power, Remote Areas, Ports & Maritime"
     }
   ],
-  "biz2_models_h2": "Featured Models",
+  "biz2_models_h2": "Case Studies",
   "biz2_models": [
     {
       "image": "assets/images/biz2_m1_ha.png",
-      "title": "GE 9HA/7HA Series",
-      "desc": "The efficiency king of the gas turbine market, breaking performance boundaries. Highly suitable for ultra-large computing centers and high-load grid support."
+      "title": "Nigeria Power Station EPC Project",
+      "desc": "Project Overview A full-scope EPC (Engineering, Procurement & Construction) power station project delivered in Nigeria, designed to provide reliable baseload electricity to a local industrial zone.\n\nScope of Work\n\nComplete engineering design and system integration\nProcurement of two 1MW gas generator sets\nOn-site installation, commissioning, and performance testing\nGrid synchronization and stability verification\nAfter-Sales Support To ensure long-term operational excellence, KMI Energy established a dedicated local after-sales team stationed on-site, providing:\n\nScheduled maintenance and preventive servicing\n24/7 technical support hotline\nSpare parts supply chain management\nOperator training and documentation handover\nKey Outcomes\n\nProject completed on schedule with zero safety incidents\nPlant availability exceeded 92% in the first year of operation\nLocal team now fully capable of independent routine operations"
     },
     {
       "image": "assets/images/biz2_m2_gt.png",
-      "title": "Alstom GT26",
-      "desc": "Units with excellent operational flexibility and partial load efficiency. Fast startup and shutdown, highly adaptable to varied power grid demands."
+      "title": "Malaysia 14×300kW Natural Gas Power Generation Project",
+      "desc": "Project Overview A distributed power generation installation comprising 14 units of 300kW natural gas generator sets, serving a manufacturing complex in Penang, Malaysia.\nScope of Work\n\nSite assessment and engineering layout optimization\nSupply of 14 compact gas gen-sets with integrated control systems\nParallel operation configuration and load management\nExhaust heat recovery system design for facility steam demand\nKey Outcomes\n\nStable power supply for 24/7 manufacturing operations\nPeak thermal efficiency enhanced to 72% via heat recovery integration\nNoise levels controlled below 75 dB(A) at site boundary\nAnnual fuel cost savings of 18% compared to previous diesel configuration"
     },
     {
       "image": "assets/images/biz2_m3_ae.png",
-      "title": "Ansaldo AE94.3A",
-      "desc": "The perfect combination of rock-solid stability and high cost-effectiveness. The premier choice for long-term stable operation in comprehensive industrial complexes."
+      "title": "Argentina 18×500kW Power Generation Project",
+      "desc": "Project Overview One of KMI Energy's most significant international deployments — an 18-unit 500kW power generation plant supplying baseload and backup power to a large agricultural processing facility in Argentina.\n\nScope of Work\n\nFull EPC delivery including civil works, electrical infrastructure, and gas pipeline connection\nTurnkey substation design and medium-voltage switchgear integration\nComprehensive SCADA monitoring system for centralized real-time control\nOperator training program spanning 6 weeks with certification\nKey Outcomes\n\nPlant successfully synchronized with local utility grid\nAll 18 units passed FAT (Factory Acceptance Test) and SAT (Site Acceptance Test)\nN+1 redundant configuration ensures uninterrupted operation even during unit maintenance\nClient reported 99.4% uptime in the first 12 months of commercial operation"
     }
   ],
   "biz2_service_h2": "High Value-added Comprehensive Capabilities",
-  "biz2_service_p": "With Bowzon's over 20 years of profound accumulation in the global industrial power equipment field, we offer new and used gas generator sets, genuine spare parts, as well as turnkey solutions from professional assessment, unit recovery, deep renovation to site commissioning, ensuring full-lifecycle performance guarantee and asset appreciation.",
+  "biz2_service_p": "With over 20 years of profound accumulation in the global industrial power equipment field, we offer new and used gas generator sets, genuine spare parts, as well as turnkey solutions from professional assessment, unit recovery, deep renovation to site commissioning, ensuring full-lifecycle performance guarantee and asset appreciation.",
   "biz3_page_title": "Gas Regulating Systems | KMI Energy",
   "biz3_hero_h1": "Gas Regulating Systems",
   "biz3_hero_p": "Building secure gas arteries for cities and industries, providing full-scenario pressure regulation solutions from high-pressure transmission to low-pressure residential distribution.",
