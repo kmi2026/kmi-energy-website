@@ -81,6 +81,7 @@ function renderDynamicSliders(lang) {
                             nextEl: swiperEl.querySelector('.swiper-button-next'),
                             prevEl: swiperEl.querySelector('.swiper-button-prev'),
                         },
+                        centerInsufficientSlides: true,
                         breakpoints: {
                             640: { slidesPerView: 1 },
                             768: { slidesPerView: 2 },
