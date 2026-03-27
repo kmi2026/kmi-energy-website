@@ -303,6 +303,7 @@ a {
 .card-content p {
     font-size: 0.95rem;
     color: var(--mid-grey);
+    white-space: pre-line;
 }
 
 /* Global Maintenance Section */
