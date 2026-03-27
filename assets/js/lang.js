@@ -57,7 +57,7 @@ function renderDynamicSliders(lang) {
                     ${imgHtml}
                     <div class="card-content" style="padding: 25px; flex-grow: 1;">
                         <h3 style="font-size: 1.25rem; color: var(--dark-blue); margin-bottom: 12px;">${item.title || ''}</h3>
-                        <p style="font-size: 0.95rem; color: var(--mid-grey); line-height: 1.6;">${item.desc || ''}</p>
+                        <p style="font-size: 0.95rem; color: var(--mid-grey); line-height: 1.6; white-space: pre-line;">${item.desc || ''}</p>
                     </div>
                 </div>
             </div>`;
