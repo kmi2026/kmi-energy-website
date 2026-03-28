@@ -1076,8 +1076,27 @@ a {
 }
 
 
-/* --- Sparse Swiper Alignment Override --- */
-/* Forces flexbox centering when the Swiper engine is deactivated or undermatched via lang.js */
+
+
+/* --- Strict Sparse Swiper Alignment Override --- */
 .swiper-wrapper.is-sparse {
+    display: flex !important;
     justify-content: center !important;
+    flex-wrap: wrap !important;
+    transform: none !important;
+    width: 100% !important;
+    gap: 30px;
+}
+.swiper-wrapper.is-sparse .swiper-slide {
+    width: 100% !important;
+    max-width: 400px !important;
+    margin-right: 0 !important;
+    margin-left: 0 !important;
+    margin-bottom: 20px;
+}
+/* Hide controls since it's now a static wrap grid */
+.dynamic-swiper:has(.is-sparse) .swiper-button-next,
+.dynamic-swiper:has(.is-sparse) .swiper-button-prev,
+.dynamic-swiper:has(.is-sparse) .swiper-pagination {
+    display: none !important;
 }
