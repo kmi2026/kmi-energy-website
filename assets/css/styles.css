@@ -1027,3 +1027,48 @@ a {
 .lang-switcher {
     display: none !important;
 }
+
+
+/* --- New About Features 2x2 Grid --- */
+.about-features-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px;
+    align-content: center;
+}
+.feature-card {
+    background: var(--white);
+    padding: 24px;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.05);
+    border-left: 3px solid var(--primary-orange);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.feature-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 25px rgba(0,0,0,0.1);
+}
+.feature-icon {
+    width: 32px;
+    height: 32px;
+    color: var(--primary-orange);
+    margin-bottom: 12px;
+}
+.feature-card h4 {
+    font-size: 1.05rem;
+    color: var(--dark-blue);
+    margin-bottom: 8px;
+    font-weight: 600;
+}
+.feature-card p {
+    font-size: 0.9rem;
+    color: var(--mid-grey);
+    line-height: 1.5;
+    margin: 0;
+}
+
+@media (max-width: 768px) {
+    .about-features-grid {
+        grid-template-columns: 1fr;
+    }
+}
