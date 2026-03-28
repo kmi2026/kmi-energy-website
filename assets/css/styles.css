@@ -1048,11 +1048,13 @@ a {
     transform: translateY(-5px);
     box-shadow: 0 8px 25px rgba(0,0,0,0.1);
 }
-.feature-icon {
-    width: 32px;
-    height: 32px;
-    color: var(--primary-orange);
-    margin-bottom: 12px;
+.feature-img {
+    width: 100%;
+    height: 110px;
+    object-fit: cover;
+    border-radius: 6px;
+    margin-bottom: 16px;
+    background-color: var(--light-grey);
 }
 .feature-card h4 {
     font-size: 1.05rem;
