@@ -1,28 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://www.kmienergy.com/index.html</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://kmienergy.com/</loc>
     <priority>1.0</priority>
+    <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://www.kmienergy.com/biz1.html</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://kmienergy.com/biz1.html</loc>
     <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://www.kmienergy.com/biz2.html</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://kmienergy.com/biz2.html</loc>
     <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://www.kmienergy.com/biz3.html</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://kmienergy.com/biz3.html</loc>
     <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://www.kmienergy.com/biz4.html</loc>
-    <changefreq>weekly</changefreq>
+    <loc>https://kmienergy.com/biz4.html</loc>
     <priority>0.8</priority>
+    <changefreq>monthly</changefreq>
+  </url>
+  <url>
+    <loc>https://kmienergy.com/about.html</loc>
+    <priority>0.6</priority>
+    <changefreq>monthly</changefreq>
   </url>
 </urlset>
