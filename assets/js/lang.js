@@ -45,6 +45,14 @@ function renderDynamicSliders(lang) {
         }
 
         let html = '';
+        
+        // Custom override: If there are fewer than 3 items, inject an 'is-sparse' class to force flex-centering
+        if (dataList.length > 0 && dataList.length < 3) {
+            wrapper.classList.add('is-sparse');
+        } else {
+            wrapper.classList.remove('is-sparse');
+        }
+        
         dataList.forEach(item => {
             let imgHtml = item.image 
                 ? `<img src="${item.image}" alt="${item.title}" style="width: 100%; height: 220px; object-fit: cover;">`

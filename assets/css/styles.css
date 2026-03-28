@@ -1074,3 +1074,10 @@ a {
         grid-template-columns: 1fr;
     }
 }
+
+
+/* --- Sparse Swiper Alignment Override --- */
+/* Forces flexbox centering when the Swiper engine is deactivated or undermatched via lang.js */
+.swiper-wrapper.is-sparse {
+    justify-content: center !important;
+}
