@@ -1,0 +1,5 @@
+# Ignore documentation files so Vercel does not upload them to the CDN payload
+docs/
+*.md
+README.md
+mcp.json
