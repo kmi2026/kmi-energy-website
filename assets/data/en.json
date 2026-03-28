@@ -74,17 +74,17 @@
   "biz1_prod_h2": "Core Product Series",
   "biz1_products": [
     {
-      "image": "/assets/images/微信图片_20260323132827_2_49.png",
+      "image": "/assets/images/biz1_product_soundproof_room_v2.png",
       "title": "Soundproof Room Series",
       "desc": "Integrating modern manufacturing, construction engineering, acoustic technology, and aesthetics. An environmentally friendly equipment designed to improve and control severe noise pollution."
     },
     {
-      "image": "/assets/images/微信图片_20260323134650_8_9.jpg",
+      "image": "/assets/images/biz1_product_mute_room_v2.jpg",
       "title": "Mute Room Series",
       "desc": "Isolating a quiet room in a noisy environment, commonly used for product testing and special occasions requiring an absolutely silent environment."
     },
     {
-      "image": "/assets/images/ScreenShot_2026-03-23_134812_071.png",
+      "image": "/assets/images/biz1_product_anechoic_chamber_v2.png",
       "title": "Anechoic Chamber Series",
       "desc": "Building a free sound field in a closed space, ensuring sound waves extend evenly in all directions to provide the ultimate acoustic test environment."
     }
@@ -151,17 +151,17 @@
   "biz3_case_h2": "Featured Projects Showcase",
   "biz3_cases": [
     {
-      "image": "/assets/images/微信图片_20260323140836_13_9.png",
+      "image": "/assets/images/biz3_case_tesla.png",
       "title": "Tesla Shanghai Gigafactory",
       "desc": "Customized medium-to-medium pressure regional regulating station with highly responsive and reliable design, ensuring stable gas supply for smart manufacturing production lines."
     },
     {
-      "image": "/assets/images/微信图片_20260323140846_15_9.png",
+      "image": "/assets/images/biz3_case_disney.png",
       "title": "Shanghai Disney Energy Center",
       "desc": "High-end regulating system with precise multi-path proportioning, meeting the failure-free operation safety levels demanded by world top-tier theme parks."
     },
     {
-      "image": "/assets/images/微信图片_20260323140856_17_9.png",
+      "image": "/assets/images/biz3_case_comac.png",
       "title": "COMAC Shanghai Aircraft Manufacturing",
       "desc": "Providing strictly standardized energy hub management, assisting the production and R&D of national wide-body aircraft with high-precision gas transmission equipment."
     },
@@ -182,12 +182,12 @@
       "desc": "Providing annual scheduled inspections, deep flaw detection and repair of core components, and fully structured overhaul services for various mainstream gas turbines and generator sets."
     },
     {
-      "image": "/assets/images/微信图片_20260323142408_20_9.png",
+      "image": "/assets/images/biz4_service_optimization.png",
       "title": "Performance Optimization & Life Extension",
       "desc": "Data-driven system diagnostics to conduct targeted technical upgrades and district heating (Cogeneration) retrofits, significantly extending equipment lifespan."
     },
     {
-      "image": "/assets/images/微信图片_20260323142416_21_9.png",
+      "image": "/assets/images/biz4_service_epc.png",
       "title": "EPC Turnkey Project General Contracting",
       "desc": "End-to-end full-chain services covering project Engineering, global top-tier Procurement, and on-site Construction delivery."
     }
@@ -195,17 +195,17 @@
   "biz4_global_h2": "Global Capabilities",
   "biz4_globals": [
     {
-      "image": "/assets/images/微信图片_20260323151014_22_9.png",
+      "image": "/assets/images/biz4_global_scale.png",
       "title": "Global Coverage Scale",
       "desc": "Our engineering services presently extend to 36 countries and regions worldwide, directly serving over 2000 large-scale industrial plants."
     },
     {
-      "image": "/assets/images/图片3.jpg",
+      "image": "/assets/images/biz4_global_response.jpg",
       "title": "Rapid Localized Response",
       "desc": "Deploying strictly assessed, combat-ready engineer teams at global core nodes to ensure fastest on-site response during sudden failures."
     },
     {
-      "image": "/assets/images/微信图片_20260323151126_27_9.png",
+      "image": "/assets/images/biz4_global_support.png",
       "title": "Supply Chain & Lifetime Tech Support",
       "desc": "Connecting upstream and downstream spare parts ecosystems, combined with cloud expert diagnostic systems, providing instant cross-border spare parts relief and lifetime technical support."
     }

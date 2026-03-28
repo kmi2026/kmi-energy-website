@@ -1,11 +1,11 @@
 export default async function handler(req, res) {
   const code = req.query.code;
 
-  const GITHUB_CLIENT_ID = process.env.GITHUB_CLIENT_ID || 'Ov23li1tnqqcEKiyBD6g';
+  const GITHUB_CLIENT_ID = process.env.GITHUB_CLIENT_ID;
   const GITHUB_CLIENT_SECRET = process.env.GITHUB_CLIENT_SECRET;
 
-  if (!GITHUB_CLIENT_SECRET) {
-    return res.status(500).send("Security Error: Missing GITHUB_CLIENT_SECRET in Vercel Environment Variables.");
+  if (!GITHUB_CLIENT_ID || !GITHUB_CLIENT_SECRET) {
+    return res.status(500).send("Security Error: Missing GITHUB_CLIENT_ID or GITHUB_CLIENT_SECRET in Vercel Environment Variables.");
   }
 
   try {
