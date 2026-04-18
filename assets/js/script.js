@@ -76,10 +76,9 @@ document.addEventListener('DOMContentLoaded', () => {
             e.preventDefault();
             const btn = contactForm.querySelector('.submit-btn');
             const msgArea = document.getElementById('form-message');
-            const lang = typeof getCookie === "function" ? getCookie('preferred_lang') : 'zh';
             const originalBtnText = btn.innerText;
 
-            btn.innerText = (lang === 'zh') ? "提交中..." : "Submitting...";
+            btn.innerText = "Submitting...";
             btn.disabled = true;
 
             const formData = new FormData(contactForm);
@@ -91,7 +90,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 // Mock success for design presentation if URL is not configured
                 setTimeout(() => {
                     msgArea.className = "form-message success";
-                    msgArea.innerText = (lang === 'zh') ? "【演示模式】提交成功！后台链接尚未配置。" : "[Demo] Success! Backend URL not configured.";
+                    msgArea.innerText = "[Demo] Success! Backend URL not configured.";
                     btn.innerText = originalBtnText;
                     btn.disabled = false;
                     contactForm.reset();
@@ -106,12 +105,12 @@ document.addEventListener('DOMContentLoaded', () => {
             })
             .then(response => {
                 msgArea.className = "form-message success";
-                msgArea.innerText = (lang === 'zh') ? "提交成功！我们将尽快与您联系。" : "Success! We will contact you soon.";
+                msgArea.innerText = "Success! We will contact you soon.";
                 contactForm.reset();
             })
             .catch(error => {
                 msgArea.className = "form-message error";
-                msgArea.innerText = (lang === 'zh') ? "表单服务暂时不可用，请通过下方邮件直接联系。" : "Service unavailable, please email us directly.";
+                msgArea.innerText = "Service unavailable, please email us directly.";
             })
             .finally(() => {
                 btn.innerText = originalBtnText;

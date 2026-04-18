@@ -16,7 +16,7 @@
 
 ### 步骤 A：打开后台专属网址
 请在电脑浏览器中输入：
-👉 **后台入口：[https://www.kmienergy.com/admin](https://www.kmienergy.com/admin)**
+👉 **后台入口：[https://kmienergy.com/admin](https://kmienergy.com/admin)**
 
 ### 步骤 B：一键授权安全登录
 1. 点击正中央按钮 **"Login with GitHub"**。
@@ -39,5 +39,5 @@
 
 ## ⏳ 3. 生效时间与展示规则
 - 后台属于异步静态编译架构。点击保存后并**不会立刻一秒生效**。
-- 您需要等待自动机器人重新打包静态网页，大约需要 **1 到 2 分钟**。
+- 您需要等待 Cloudflare Pages 自动重新发布静态网页，大约需要 **1 到 2 分钟**。
 - 两分钟后访问主站按键盘 **`F5` (强制刷新)**，您的心仪文字就会呈现在全球互联网上。

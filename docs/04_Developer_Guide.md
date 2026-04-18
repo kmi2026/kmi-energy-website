@@ -23,7 +23,7 @@
 - `/assets/css/`：`styles.css` 管理所有界面的主题和样式代码。可根据最新 UI 需求在这里添加对应的查询断点规则。
 - `/assets/js/`：`script.js`（核心逻辑和 DOM 添加） 以及 `lang.js`（用于前台的 i18n 语言加载流）。
 - `/assets/data/`：语言映射模板 JSON，这才是您的 Data Store。若新添加 HTML 元素，请赋予其 `data-i18n="xxx"`，同时在 zh.json 和 en.json 内加入对应属性来使得双语同步起效。
-- `/api/`：Vercel 的无服务器云函数 (Serverless Functions) 存放地，包含与 Sveltia CMS 进行的 OAuth Callback 认证模块。如果您只修改纯前端展示，则可以一辈子不碰该目录。
+- `/functions/`：Cloudflare Pages Functions 存放地，当前包含与 Sveltia CMS 进行 OAuth Callback 认证所需的 `/api/auth` 与 `/api/callback` 路由。如果您只修改纯前端展示，则可以不碰该目录。
 
 ## 4. CMS 部署兼容性注意事项
 前端所有被设定了动态注入的地方，**务必要在 `/admin/config.yml` 内同样完成对应数据字段的设计与绑定**，这样内容管理员在后台修改文本时，才会真正反映到生成的 JSON 内，避免两头割裂。
