@@ -6,28 +6,23 @@
     <changefreq>weekly</changefreq>
   </url>
   <url>
-    <loc>https://kmienergy.com/biz1.html</loc>
+    <loc>https://kmienergy.com/biz1-sound-isolation.html</loc>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://kmienergy.com/biz2.html</loc>
+    <loc>https://kmienergy.com/biz2-gas-power-generation.html</loc>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://kmienergy.com/biz3.html</loc>
+    <loc>https://kmienergy.com/biz3-gas-pressure-regulation.html</loc>
     <priority>0.8</priority>
     <changefreq>monthly</changefreq>
   </url>
   <url>
-    <loc>https://kmienergy.com/biz4.html</loc>
+    <loc>https://kmienergy.com/biz4-global-maintenance.html</loc>
     <priority>0.8</priority>
-    <changefreq>monthly</changefreq>
-  </url>
-  <url>
-    <loc>https://kmienergy.com/about.html</loc>
-    <priority>0.6</priority>
     <changefreq>monthly</changefreq>
   </url>
 </urlset>
