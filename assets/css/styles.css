@@ -537,6 +537,31 @@ a {
 .footer-col ul li a:hover {
     color: var(--primary-orange);
 }
+.footer-social {
+    margin-top: 18px;
+}
+.footer-social-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    color: var(--white);
+    font-weight: 500;
+    transition: var(--transition);
+}
+.footer-social-link:hover {
+    color: var(--primary-orange);
+}
+.footer-social-link svg {
+    width: 28px;
+    height: 28px;
+    flex-shrink: 0;
+}
+.footer-social-link .linkedin-icon {
+    color: #2D9BF0;
+}
+.footer-social-link:hover .linkedin-icon {
+    color: #4AABF5;
+}
 .footer-bottom {
     border-top: 1px solid rgba(255,255,255,0.1);
     padding-top: 20px;
