@@ -207,17 +207,17 @@
     {
       "image": "/assets/images/biz4_global_scale.png",
       "title": "Global Coverage Scale",
-      "desc": "Our engineering services presently extend to 36 countries and regions worldwide, directly serving over 2000 large-scale industrial plants."
+      "desc": "Our engineering services presently extend to 36 countries and regions\nworldwide, serving through over 2000 large-scale industrial plants."
     },
     {
       "image": "/assets/images/biz4_global_response.jpg",
       "title": "Rapid Localized Response",
-      "desc": "Deploying strictly assessed, combat-ready engineer teams at global core nodes to ensure fastest on-site response during sudden failures."
+      "desc": "Coordinated rapid-response support through vetted local engineering\npartners — ensuring timely on-site intervention when unplanned\nfailures occur."
     },
     {
       "image": "/assets/images/biz4_global_support.png",
       "title": "Supply Chain & Lifetime Tech Support",
-      "desc": "Connecting upstream and downstream spare parts ecosystems, combined with cloud expert diagnostic systems, providing instant cross-border spare parts relief and lifetime technical support."
+      "desc": "Coordinated spare parts supply chain with remote expert diagnostic\nsupport — providing timely cross-border parts availability and\nlifetime technical assistance."
     }
   ],
   "contact_form_title": "Request a Quote / Contact Us",
