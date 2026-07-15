@@ -172,24 +172,34 @@
     }
   ],
   "biz4_page_title": "Global Localized O&M | KMI Energy",
-  "biz4_hero_h1": "Global Localized O&M",
-  "biz4_hero_p": "Building a global service network spanning 36 countries and regions to provide full-lifecycle energy protection from overhaul to optimization.",
+  "biz4_hero_h1": "Global O&M Support",
+  "biz4_hero_p": "An international partner network delivering full-lifecycle support — from major overhauls to performance optimization — across 36 countries and regions.",
   "biz4_core_h2": "Core O&M Services",
   "biz4_services": [
     {
       "image": "/assets/images/home_banner_02.jpg",
-      "title": "Turbine Overhaul & Deep Maintenance",
-      "desc": "Providing annual scheduled inspections, deep flaw detection and repair of core components, and fully structured overhaul services for various mainstream gas turbines and generator sets."
+      "title": "Inspection & Diagnostics",
+      "desc": "On-site condition monitoring including vibration analysis, borescope inspection, and thermographic scanning. Diagnostic reports identify issues before they become unplanned outages."
     },
     {
       "image": "/assets/images/biz4_service_optimization.png",
-      "title": "Performance Optimization & Life Extension",
-      "desc": "Data-driven system diagnostics to conduct targeted technical upgrades and district heating (Cogeneration) retrofits, significantly extending equipment lifespan."
+      "title": "Scheduled Maintenance",
+      "desc": "Preventive and predictive maintenance aligned with OEM intervals. Oil sampling, filter replacement, control system checks, and functional testing to maintain reliability."
     },
     {
       "image": "/assets/images/biz4_service_epc.png",
-      "title": "EPC Turnkey Project General Contracting",
-      "desc": "End-to-end full-chain services covering project Engineering, global top-tier Procurement, and on-site Construction delivery."
+      "title": "Overhaul Coordination",
+      "desc": "End-to-end overhaul management — from outage planning and parts procurement to on-site execution, post-overhaul testing, and return-to-service verification."
+    },
+    {
+      "image": "/assets/images/biz1_product_anechoic_chamber_v2.png",
+      "title": "Performance Optimization",
+      "desc": "Data-driven analysis of operating parameters, fuel consumption trends, and emissions compliance. Actionable recommendations to improve efficiency and extend asset life."
+    },
+    {
+      "image": "/assets/images/biz1_product_anechoic_chamber_v2.png",
+      "title": "Spare Parts Planning",
+      "desc": "Strategic inventory planning for critical and long-lead spare parts. Ensuring availability when needed while minimizing capital tied up in inventory."
     }
   ],
   "biz4_global_h2": "Global Capabilities",
@@ -208,11 +218,6 @@
       "image": "/assets/images/biz4_global_support.png",
       "title": "Supply Chain & Lifetime Tech Support",
       "desc": "Connecting upstream and downstream spare parts ecosystems, combined with cloud expert diagnostic systems, providing instant cross-border spare parts relief and lifetime technical support."
-    },
-    {
-      "image": "/assets/images/IST_24519_90003.jpg",
-      "title": "Why KMI",
-      "desc": "Because a turnkey project is only as strong as its weakest link. From multi-OEM sourcing and package integration to acoustic engineering, factory acceptance testing (FAT), logistics, commissioning support, and lifecycle planning — we manage every phase under a single point of responsibility. The result: a fully integrated, noise-compliant, on-site power generation system that arrives tested, installs smoothly, and performs reliably over its entire service life. No gaps, no finger-pointing, no surprises."
     }
   ],
   "contact_form_title": "Request a Quote / Contact Us",
