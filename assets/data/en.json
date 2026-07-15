@@ -99,12 +99,12 @@
     {
       "image": "assets/images/feat_gas_power.png",
       "title": "Gas Generator Sets",
-      "desc": "KMI-G Series\n\nPower Range: 200kW - 2MW\n\nFuel Type: Natural Gas, Biogas, Associated Gas\n\nElectrical Efficiency: 38% - 42%\n\nApplications: Industrial Parks, Data Centers, Hospitals, Farms, Oil Fields"
+      "desc": "KMI-G Series\n\nApplications: Industrial Parks, Data Centers, Hospitals, Farms, Oil Fields\n\nPower Range: 200kW - 2MW\n\nFuel Type: Natural Gas, Biogas, Associated Gas\n\nElectrical Efficiency: 38% - 42%"
     },
     {
       "image": "assets/images/feat_methanol_power.png",
       "title": "Methanol Generator Sets",
-      "desc": "KMI-M Series\nPower Range: 30kW - 2MW  \nFuel Type: Methanol / Methanol Dual-Fuel\nElectrical Efficiency: 40%+\nAdvantages: Low-carbon, Zero Sulfur, Low NOx, Easy Storage & Transport\nApplications: Backup Power, Remote Areas, Ports & Maritime"
+      "desc": "KMI-M Series\nApplications: Backup Power, Remote Areas, Ports & Maritime\nPower Range: 30kW - 2MW  \nFuel Type: Methanol / Methanol Dual-Fuel\nElectrical Efficiency: 40%+\nAdvantages: Low-carbon, Zero Sulfur, Low NOx, Easy Storage & Transport"
     }
   ],
   "biz2_models_h2": "Case Studies",
@@ -126,7 +126,7 @@
     }
   ],
   "biz2_service_h2": "High Value-added Comprehensive Capabilities",
-  "biz2_service_p": "With over 20 years of profound accumulation in the global industrial power equipment field, we offer new and used gas generator sets, genuine spare parts, as well as turnkey solutions from professional assessment, unit recovery, deep renovation to site commissioning, ensuring full-lifecycle performance guarantee and asset appreciation.",
+  "biz2_service_p": "With over 20 years of expertise in global industrial power equipment, we supply new and professionally refurbished gas generator sets and genuine spare parts — supported by engineering coordination, multi-OEM sourcing, package integration, FAT, logistics, and commissioning support.",
   "biz3_page_title": "Gas Regulating Systems | KMI Energy",
   "biz3_hero_h1": "Gas Regulating Systems",
   "biz3_hero_p": "Building secure gas arteries for cities and industries, providing full-scenario pressure regulation solutions from high-pressure transmission to low-pressure residential distribution.",
