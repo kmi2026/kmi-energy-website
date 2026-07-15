@@ -11,23 +11,23 @@
   "partners": [
     {
       "name": "Mitsubishi Heavy Industries",
-      "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.mhi.com&size=256"
+      "logo": "/assets/images/未标题-1.jpg"
     },
     {
       "name": "Shanghai Electric",
-      "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.shanghai-electric.com&size=256"
+      "logo": "/assets/images/未标题-2.jpg"
     },
     {
       "name": "Dongfang Electric",
-      "logo": "/assets/images/logo_dongfang.png"
+      "logo": "/assets/images/未标题-3.jpg"
     },
     {
       "name": "Harbin Electric",
-      "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.hpec.com&size=256"
+      "logo": "/assets/images/未标题-4.jpg"
     },
     {
       "name": "MAN Energy Solutions",
-      "logo": "https://t3.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=http://www.man-es.com&size=256"
+      "logo": "/assets/images/未标题-5.jpg"
     }
   ],
   "about_h2": "About  KMI",
