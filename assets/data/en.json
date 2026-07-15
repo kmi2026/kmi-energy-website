@@ -128,47 +128,47 @@
   "biz2_service_h2": "High Value-added Comprehensive Capabilities",
   "biz2_service_p": "With over 20 years of expertise in global industrial power equipment, we supply new and professionally refurbished gas generator sets and genuine spare parts — supported by engineering coordination, multi-OEM sourcing, package integration, FAT, logistics, and commissioning support.",
   "biz3_page_title": "Gas Regulating Systems | KMI Energy",
-  "biz3_hero_h1": "Gas Regulating Systems",
-  "biz3_hero_p": "Building secure gas arteries for cities and industries, providing full-scenario pressure regulation solutions from high-pressure transmission to low-pressure residential distribution.",
+  "biz3_hero_h1": "Fuel Gas Conditioning & Regulation for Power Generation",
+  "biz3_hero_p": "Precision fuel gas conditioning for turbine and engine inlets — from pipeline interface to combustion-ready gas.",
   "biz3_prod_h2": "Core Products & Equipment",
   "biz3_products": [
     {
       "image": "assets/images/biz3_p1_transmission.png",
-      "title": "High-Medium Pressure Transmission & City Gate Stations",
-      "desc": "Tailor-made large hub skids supporting series monitoring and regulation, 1-duty 1-standby structure, equipped with gas leak alarms and electric tracing heating. Fully ensuring the stability and safety of urban and industrial arteries."
+      "title": "Fuel Gas Conditioning Skids",
+      "desc": "Complete gas train packages integrating pressure regulation, filtration, metering, heating, and safety shut-off — engineered for gas turbine and reciprocating engine inlets. Skid-mounted, factory-tested, ready for on-site tie-in."
     },
     {
       "image": "assets/images/biz3_p2_regional.png",
-      "title": "Regional Regulating & Metering Stations",
-      "desc": "High-standard integrated packaging using high-strength anti-corrosion stainless steel cabinets. Covering medium-to-medium and medium-to-low pressure micro-circulation control to smartly achieve precise flow stabilization and metering."
+      "title": "Gas Filtration & Separation",
+      "desc": "High-efficiency coalescing filters and cyclone separators delivering 99.8% particulate removal at ≤10μ precision, protecting downstream turbine combustion components from contaminants and liquid carryover."
     },
     {
       "image": "assets/images/biz3_p3_filter.png",
-      "title": "High-Pressure Gas Filters",
-      "desc": "A pure shield in high-pressure, high-flow environments. Filtration efficiency reaches 99.8%, with precision up to 10μ. Standardly equipped with imported quick-opening blind plates and remote differential pressure data signal warnings."
+      "title": "Pressure Regulation & Safety Shut-Off",
+      "desc": "Multi-stage pressure reduction with active and passive overpressure protection. Series monitoring, slam-shut valves, and fail-safe venting ensure combustion stability and compliance with OEM inlet pressure specifications."
     }
   ],
   "biz3_case_h2": "Featured Projects Showcase",
   "biz3_cases": [
     {
       "image": "/assets/images/biz3_case_tesla.png",
-      "title": "Tesla Shanghai Gigafactory",
-      "desc": "Customized medium-to-medium pressure regional regulating station with highly responsive and reliable design, ensuring stable gas supply for smart manufacturing production lines."
+      "title": "Gas Turbine Fuel Gas Conditioning — 300 MW Combined-Cycle Plant",
+      "desc": "Integrated gas conditioning skid for a Siemens Energy SGT5-4000F turbine inlet, covering filtration, heating, pressure regulation, and safety shut-off. Delivered as a single factory-tested module."
     },
     {
       "image": "/assets/images/biz3_case_disney.png",
-      "title": "Shanghai Disney Energy Center",
-      "desc": "High-end regulating system with precise multi-path proportioning, meeting the failure-free operation safety levels demanded by world top-tier theme parks."
+      "title": "Reciprocating Engine Fuel Gas System — Industrial Captive Power Station",
+      "desc": "Multi-engine gas train package supplying conditioned fuel gas to 12 × 2 MW Jenbacher generator sets, with individual engine metering and emergency shutdown per string."
     },
     {
       "image": "/assets/images/biz3_case_comac.png",
-      "title": "COMAC Shanghai Aircraft Manufacturing",
-      "desc": "Providing strictly standardized energy hub management, assisting the production and R&D of national wide-body aircraft with high-precision gas transmission equipment."
+      "title": "Pipeline Gas to Turbine Interface — Floating Power Barge",
+      "desc": "Compact, weight-optimized gas conditioning module for a barge-mounted LM2500 gas turbine, meeting maritime classification requirements with full pressure reduction and filtration in a single lift."
     },
     {
       "image": "assets/images/biz3_c4_municipal.png",
-      "title": "Municipal Gas Backbone Networks",
-      "desc": "Deeply serving major master gate stations for Towngas and PetroChina Kunlun Gas nationwide, accommodating massive high-pressure energy loads for civilian and industrial use."
+      "title": "Emergency Shut-Off & Vent System — AI Data Center Backup Power",
+      "desc": "High-response safety shut-off and nitrogen-purge vent skid for a data center standby gas generation plant, achieving full line isolation within 2 seconds of ESD activation."
     }
   ],
   "biz4_page_title": "Global Localized O&M | KMI Energy",
