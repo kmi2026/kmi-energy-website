@@ -177,7 +177,7 @@
   "biz4_core_h2": "Core O&M Services",
   "biz4_services": [
     {
-      "image": "assets/images/biz4_s1_overhaul.png",
+      "image": "/assets/images/home_banner_02.jpg",
       "title": "Turbine Overhaul & Deep Maintenance",
       "desc": "Providing annual scheduled inspections, deep flaw detection and repair of core components, and fully structured overhaul services for various mainstream gas turbines and generator sets."
     },
