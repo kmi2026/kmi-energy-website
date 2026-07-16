@@ -97,25 +97,25 @@
   "biz2_brand_h2": "Featured Models",
   "biz2_brands": [
     {
-      "image": "assets/images/feat_gas_power.png",
+      "image": "/assets/images/图片1.png",
       "title": "Gas Generator Sets",
-      "desc": "KMI-G Series\n\nApplications: Industrial Parks, Data Centers, Hospitals, Farms, Oil Fields\n\nPower Range: 200kW - 2MW\n\nFuel Type: Natural Gas, Biogas, Associated Gas\n\nElectrical Efficiency: 38% - 42%"
+      "desc": "Applications: Industrial Parks, Data Centers, Hospitals, Farms, Oil Fields\nUnit Model\tTM-250NG\nOutput Power / Capacity\t250 kW / 312.5 kVA\nPower Factor\tCOS Φ = 0.8 (Lagging)\nOutput Voltage\t400 V\nRated Frequency\t50 Hz\nRated Rotational Speed\t1500 rpm\nGas Source Requirements\tPipeline natural gas; MN value ≥ 85; free of impurities, sulfur, and moisture\nExternal Dimensions\t3100 × 1200 × 1650 mm\nUnit Weight\t2600 kg"
     },
     {
-      "image": "assets/images/feat_methanol_power.png",
+      "image": "/assets/images/图片2.png",
       "title": "Methanol Generator Sets",
-      "desc": "KMI-M Series\nApplications: Backup Power, Remote Areas, Ports & Maritime\nPower Range: 30kW - 2MW  \nFuel Type: Methanol / Methanol Dual-Fuel\nElectrical Efficiency: 40%+\nAdvantages: Low-carbon, Zero Sulfur, Low NOx, Easy Storage & Transport"
+      "desc": "Applications: Backup Power, Remote Areas, Ports & Maritime\nUnit Model\tTM-250MeOH\nOutput Power\t250 kW / 312.5 kVA\nPower Factor\tCOS Φ = 0.8 (Lagging)\nOutput Voltage\t400 V / 230 V (600 V)\nRated Frequency\t50 Hz\nRated Speed\t1500 rpm\nMethanol Grade\t(Standard) CH₃OH\nDimensions (L × W × H)\t3100 × 1200 × 1750 mm\nUnit Weight\t2800 kg"
     }
   ],
   "biz2_models_h2": "Case Studies",
   "biz2_models": [
     {
-      "image": "assets/images/biz2_m1_ha.png",
-      "title": "Nigeria Power Station EPC Project",
-      "desc": "Project Overview A full-scope EPC (Engineering, Procurement & Construction) power station project delivered in Nigeria, designed to provide reliable baseload electricity to a local industrial zone.\n\nScope of Work\n\nComplete engineering design and system integration\nProcurement of two 1MW gas generator sets\nOn-site installation, commissioning, and performance testing\nGrid synchronization and stability verification\nAfter-Sales Support To ensure long-term operational excellence, KMI Energy established a dedicated local after-sales team stationed on-site, providing:\n\nScheduled maintenance and preventive servicing\n24/7 technical support hotline\nSpare parts supply chain management\nOperator training and documentation handover\nKey Outcomes\n\nProject completed on schedule with zero safety incidents\nPlant availability exceeded 92% in the first year of operation\nLocal team now fully capable of independent routine operations\n\nStatus: Under evaluation"
+      "image": "/assets/images/4729d3ee-05c5-451f-988e-f5fb37824d63.png",
+      "title": "LPG / LNG Dual-Fuel Project in Leningrad, Russia",
+      "desc": "1. Project Overview\nThis project is a practical on-site installation of an LPG / LNG dual-fuel gas generator set in the Leningrad region of Russia. The solution provides reliable distributed power generation for industrial or commercial facilities, utilizing locally available liquefied petroleum gas (LPG) and liquefied natural gas (LNG) as flexible fuel sources. The unit is housed in a weather-proof enclosure for easy transport, installation, and maintenance in cold-climate conditions.\n2. Location & Application\nLocation: Leningrad, Russia\nApplication: Industrial / commercial on-site power generation\nFuel flexibility: Operates on both LPG and LNG, switching according to fuel availability and cost\nEnclosure: Containerized / sound-attenuated enclosure for outdoor installation\n3. Technical Parameters\nParameter\tValue\nUnit Model\tTM-250NG (or project-specific equivalent)\nOutput Power / Capacity\t250 kW / 312.5 kVA\nPower Factor\tCOS Φ = 0.8 (Lagging)\nOutput Voltage\t400 V / 230 V (or 600 V on request)\nRated Frequency\t50 Hz\nRated Rotational Speed\t1500 rpm\nFuel Type\tDual-fuel LPG / LNG\nGas Source Requirements\tPipeline natural gas or vaporized LNG/LPG; MN value ≥ 85; clean, dry, low-sulfur\nExternal Dimensions (L × W × H)\t3100 × 1200 × 1650 mm\nUnit Weight\t2600 kg\n4. Key Features\nDual-fuel capability: Supports both LPG and LNG, reducing fuel supply risk and improving operating economics.\nCold-climate design: Engineered for reliable starting and operation in Russian winter conditions.\nContainerized enclosure: Simplifies logistics, installation, and acoustic control.\nClean combustion: Gas fuel reduces particulate and SOx emissions compared with diesel-only generation.\nGrid-quality output: 400 V three-phase output suitable for industrial loads and grid paralleling.\n5. Project Highlights\nThe site photos show the completed generator installation, the control panel, and the fuel supply setup. Local personnel and project engineers confirmed successful commissioning and stable operation. The customer gave positive feedback on unit performance, fuel flexibility, and ease of maintenance.\n6. Contact & Follow-up\nFor detailed technical documentation, spare parts, commissioning support, or a customized proposal for your site, please contact the project team."
     },
     {
-      "image": "assets/images/biz2_m2_gt.png",
+      "image": "/assets/images/e9ae741c-fc65-4c68-811f-7367a997bda0.png",
       "title": "Malaysia 14×300kW Natural Gas Power Generation Project",
       "desc": "Project Overview A distributed power generation installation comprising 14 units of 300kW natural gas generator sets, serving a manufacturing complex in Penang, Malaysia.\nScope of Work\n\nSite assessment and engineering layout optimization\nSupply of 14 compact gas gen-sets with integrated control systems\nParallel operation configuration and load management\nExhaust heat recovery system design for facility steam demand\nKey Outcomes\n\nStable power supply for 24/7 manufacturing operations\nPeak thermal efficiency enhanced to 72% via heat recovery integration\nNoise levels controlled below 75 dB(A) at site boundary\nAnnual fuel cost savings of 18% compared to previous diesel configuration\n\nStatus: proposal stage"
     },
