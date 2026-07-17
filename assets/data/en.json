@@ -133,17 +133,17 @@
   "biz3_prod_h2": "Core Products & Equipment",
   "biz3_products": [
     {
-      "image": "assets/images/biz3_p1_transmission.png",
+      "image": "/assets/images/191725317526.jpg",
       "title": "Fuel Gas Conditioning Skids",
       "desc": "Complete gas train packages integrating pressure regulation, filtration, metering, heating, and safety shut-off — engineered for gas turbine and reciprocating engine inlets. Skid-mounted, factory-tested, ready for on-site tie-in."
     },
     {
-      "image": "assets/images/biz3_p2_regional.png",
+      "image": "/assets/images/aca15bab0c6044bea73d9655e29c008a.jpeg",
       "title": "Gas Filtration & Separation",
       "desc": "High-efficiency coalescing filters and cyclone separators delivering 99.8% particulate removal at ≤10μ precision, protecting downstream turbine combustion components from contaminants and liquid carryover."
     },
     {
-      "image": "assets/images/biz3_p3_filter.png",
+      "image": "/assets/images/u=4217271758,3758676397&fm=253&fmt=auto&app=138&f=JPEG.webp",
       "title": "Pressure Regulation & Safety Shut-Off",
       "desc": "Multi-stage pressure reduction with active and passive overpressure protection. Series monitoring, slam-shut valves, and fail-safe venting ensure combustion stability and compliance with OEM inlet pressure specifications."
     }
@@ -151,22 +151,22 @@
   "biz3_case_h2": "Featured Projects Showcase",
   "biz3_cases": [
     {
-      "image": "/assets/images/biz3_case_tesla.png",
+      "image": "/assets/images/455234_2d7d4070-1e47-4afa-849d-907bf317e18f.jpg",
       "title": "Gas Turbine Fuel Gas Conditioning — 300 MW Combined-Cycle Plant",
       "desc": "Integrated gas conditioning skid for a Siemens Energy SGT5-4000F turbine inlet, covering filtration, heating, pressure regulation, and safety shut-off. Delivered as a single factory-tested module."
     },
     {
-      "image": "/assets/images/biz3_case_disney.png",
+      "image": "/assets/images/u=2281180686,2138062203&fm=253&app=138&f=JPEG.jpg",
       "title": "Reciprocating Engine Fuel Gas System — Industrial Captive Power Station",
       "desc": "Multi-engine gas train package supplying conditioned fuel gas to 12 × 2 MW Jenbacher generator sets, with individual engine metering and emergency shutdown per string."
     },
     {
-      "image": "/assets/images/biz3_case_comac.png",
+      "image": "/assets/images/194317300430.jpg",
       "title": "Pipeline Gas to Turbine Interface — Floating Power Barge",
       "desc": "Compact, weight-optimized gas conditioning module for a barge-mounted LM2500 gas turbine, meeting maritime classification requirements with full pressure reduction and filtration in a single lift."
     },
     {
-      "image": "assets/images/biz3_c4_municipal.png",
+      "image": "/assets/images/51712edf27f8155dd386f6bfd83c93c7.jpeg",
       "title": "Emergency Shut-Off & Vent System — AI Data Center Backup Power",
       "desc": "High-response safety shut-off and nitrogen-purge vent skid for a data center standby gas generation plant, achieving full line isolation within 2 seconds of ESD activation."
     }
